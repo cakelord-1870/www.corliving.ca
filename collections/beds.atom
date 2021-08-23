@@ -1,0 +1,2159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.corliving.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.corliving.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.corliving.ca/collections/beds.atom"/>
+  <title>CorLiving Furniture CA</title>
+  <updated>2021-05-17T11:06:56-07:00</updated>
+  <author>
+    <name>CorLiving Furniture CA</name>
+  </author>
+  <entry>
+    <id>https://www.corliving.ca/products/6593680113748</id>
+    <published>2021-05-17T11:06:56-07:00</published>
+    <updated>2021-05-17T11:06:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/bellevue-upholstered-panel-bed-king"/>
+    <title>Bellevue Upholstered Panel Bed, King</title>
+    <s:type>BRH20XK</s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/BRH-201-K_wrk3_5de7188b-36de-4ea8-a6cb-e3c1a2b29459.jpg?v=1621473962"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong>BRH20XK<br>
+        <strong>Price: </strong>
+            899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<ul>
+<li>Wide rectangle tufted fabric headboard for a classic and timeless feel</li>
+<li>Padded headboard and bed frame upholstered in soft fabric</li>
+<li>Durable wooden slats provide added support and eliminate the need for a box spring</li>
+<li>Two adjustable support legs provide extra stability on uneven surfaces</li>
+<li>Fits a standard king size mattress</li>
+<li>Black solid wood accent legs complete the look</li>
+<li>Shipped to you in 1 box</li>
+<li>Mattress not included*</li>
+</ul>
+<p>Behind every sweet dream is a good bed, and if you’re still looking for the right one, you found it. Supported by solid wood legs and durable wooden slats so there is no need for a box spring. This bed features a low-profile, streamlined design that works well in any contemporary setting. Upholstered in beautiful foam-filled wide rectangle tufted fabric for an inviting and classic feel. Shipped to you in one box with easy assembly you will be drifting off to sleep in no time</p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>43"H X 81"W X 87"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>111 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>7"H X 84"W X 39"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>140 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Engineered Wood, Wood, Fabric, Foam</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>598 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beds</s:tag>
+    <s:tag>Material_Fabric</s:tag>
+    <s:tag>Size_King</s:tag>
+    <s:tag>Type_Beds</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/6593680113748</id>
+      <title>Dark Grey</title>
+      <s:price currency="CAD">899.00</s:price>
+      <s:sku>971888</s:sku>
+      <s:grams>63410</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/6593680113748</id>
+      <title>Ocean Blue</title>
+      <s:price currency="CAD">899.00</s:price>
+      <s:sku>971871</s:sku>
+      <s:grams>63410</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/6593680113748</id>
+      <title>Cream</title>
+      <s:price currency="CAD">899.00</s:price>
+      <s:sku>971864</s:sku>
+      <s:grams>63410</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/6593680113748</id>
+      <title>Grey</title>
+      <s:price currency="CAD">899.00</s:price>
+      <s:sku>971857</s:sku>
+      <s:grams>63410</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/6593678245972</id>
+    <published>2021-05-17T11:05:59-07:00</published>
+    <updated>2021-05-17T11:05:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/nova-ridge-tufted-upholstered-bed-king"/>
+    <title>Nova Ridge Tufted Upholstered Bed, King</title>
+    <s:type>BRH10XK</s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/BRH-101-K_wrk3_8da97316-9d55-442f-9ace-963f970c1966.jpg?v=1621475150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong>BRH10XK<br>
+        <strong>Price: </strong>
+            899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<ul>
+<li>Tufted headboard for a classic and timeless feel</li>
+<li>Padded headboard and bed frame upholstered in soft fabric</li>
+<li>Durable wooden slats provide added support and eliminate the need for a box spring</li>
+<li>Two adjustable support legs provide extra stability on uneven surfaces</li>
+<li>Fits a standard king size mattress</li>
+<li>Black solid wood accent legs complete the look</li>
+<li>Shipped to you in 1 box</li>
+<li>Mattress not included*</li>
+</ul>
+<p>Behind every sweet dream is a good bed, and if you’re still looking for the right one, you found it. Supported by solid wood legs and durable wooden slats so there is no need for a box spring. This bed features a low-profile, streamlined design that works well in any contemporary setting. Upholstered in beautiful foam-filled tufted fabric for an inviting and classic feel. Shipped to you in one box with easy assembly you will be drifting off to sleep in no time</p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>43"H X 81"W X 87"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>100 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>7"H X 84"W X 39"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>123 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Engineered Wood, Wood, Fabric, Foam</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>598 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beds</s:tag>
+    <s:tag>Material_Fabric</s:tag>
+    <s:tag>Size_King</s:tag>
+    <s:tag>Type_Beds</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/6593678245972</id>
+      <title>Dark Grey</title>
+      <s:price currency="CAD">899.00</s:price>
+      <s:sku>971925</s:sku>
+      <s:grams>55910</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/6593678245972</id>
+      <title>Ocean Blue</title>
+      <s:price currency="CAD">899.00</s:price>
+      <s:sku>971918</s:sku>
+      <s:grams>55910</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/6593678245972</id>
+      <title>Cream</title>
+      <s:price currency="CAD">899.00</s:price>
+      <s:sku>971901</s:sku>
+      <s:grams>63410</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/6593678245972</id>
+      <title>Light Grey</title>
+      <s:price currency="CAD">899.00</s:price>
+      <s:sku>971895</s:sku>
+      <s:grams>55910</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/3932542238835</id>
+    <published>2019-07-23T15:34:39-07:00</published>
+    <updated>2019-07-23T15:34:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/fabric-king-bed-frame-with-arched-headboard-and-nailhead-trim-accents"/>
+    <title>Florence Fabric Bed Frame, King</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/FLR-521-K_wrk1_ka_aa80deec-76da-459b-89d0-288f272b1275.jpg?v=1621301340"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            939.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<ul>
+<li>Soft arch headboard design</li>
+<li>Nailhead trim </li>
+<li>Upholstered in a soft fabric</li>
+<li>Metal side rails, center support legs, and durable wood slats provide extra stability</li>
+<li>Wooden tapered accent legs to complete the look</li>
+<li>Fits a standard king mattress</li>
+<li>Box spring required</li>
+<li>Mattress not included*</li>
+</ul>
+<p><span>A stylish focal point for your bedroom space. Complete with a tall arched headboard design and lined with nailhead trim detailing, this bed is a gorgeous addition to your bedroom. The solid frame is fully upholstered in soft fabric while the sturdy center support legs and metal side rails allow you to sleep comfortably for years to come.</span></p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>57"H X 84"W X 87"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>108 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>18"H X 39"W X 39"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>133 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Real Wood, Engineered Wood, Metal, Fabric, Foam</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>599 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beds</s:tag>
+    <s:tag>K&amp;A</s:tag>
+    <s:tag>Material_Fabric</s:tag>
+    <s:tag>Size_King</s:tag>
+    <s:tag>Type_Beds</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/3932542238835</id>
+      <title>Dark Grey</title>
+      <s:price currency="CAD">939.00</s:price>
+      <s:sku>977323</s:sku>
+      <s:grams>60230</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/3932542238835</id>
+      <title>Navy Blue</title>
+      <s:price currency="CAD">939.00</s:price>
+      <s:sku>977293</s:sku>
+      <s:grams>60230</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/3932542238835</id>
+      <title>Grey</title>
+      <s:price currency="CAD">939.00</s:price>
+      <s:sku>977262</s:sku>
+      <s:grams>60230</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/3932542238835</id>
+      <title>Cream</title>
+      <s:price currency="CAD">939.00</s:price>
+      <s:sku>977231</s:sku>
+      <s:grams>60230</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/3932542140531</id>
+    <published>2019-07-23T15:33:52-07:00</published>
+    <updated>2019-07-23T15:33:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/fabric-queen-bed-frame-with-arched-headboard-and-nailhead-trim-accents"/>
+    <title>Florence Fabric Bed Frame, Queen</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/FLR-521-Q_wrk1_ka.jpg?v=1621301344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            779.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<ul>
+<li>Soft arch headboard design</li>
+<li>Nailhead trim </li>
+<li>Upholstered in a soft fabric</li>
+<li>Metal side rails, center support legs, and durable wood slats provide extra stability</li>
+<li>Wooden tapered accent legs to complete the look</li>
+<li>Fits a standard queen mattress</li>
+<li>Box spring required</li>
+<li>Mattress not included*</li>
+</ul>
+<p><span>A stylish focal point for your bedroom space. Complete with a tall arched headboard design and lined with nailhead trim detailing, this bed is a gorgeous addition to your bedroom. The solid frame is fully upholstered in soft fabric while the sturdy center support legs and metal side rails allow you to sleep comfortably for years to come.</span></p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>57"H X 67"W X 87"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>96 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>15"H X 39"W X 39"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>118 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Real Wood, Engineered Wood, Metal, Fabric, Foam</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>440 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beds</s:tag>
+    <s:tag>K&amp;A</s:tag>
+    <s:tag>Material_Fabric</s:tag>
+    <s:tag>Size_Queen</s:tag>
+    <s:tag>Type_Beds</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/3932542140531</id>
+      <title>Dark Grey</title>
+      <s:price currency="CAD">779.00</s:price>
+      <s:sku>977330</s:sku>
+      <s:grams>53190</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/3932542140531</id>
+      <title>Navy Blue</title>
+      <s:price currency="CAD">779.00</s:price>
+      <s:sku>977309</s:sku>
+      <s:grams>53190</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/3932542140531</id>
+      <title>Grey</title>
+      <s:price currency="CAD">779.00</s:price>
+      <s:sku>977279</s:sku>
+      <s:grams>53190</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/3932542140531</id>
+      <title>Cream</title>
+      <s:price currency="CAD">779.00</s:price>
+      <s:sku>977248</s:sku>
+      <s:grams>53190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/3932541943923</id>
+    <published>2019-07-23T15:33:02-07:00</published>
+    <updated>2019-07-23T15:33:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/fabric-double-bed-frame-with-arched-headboard-and-nailhead-trim-accents"/>
+    <title>Florence Fabric Bed Frame, Full/Double</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/FLR-521-K_wrk1_ka.jpg?v=1621301337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            749.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<ul>
+<li>Soft arch headboard design </li>
+<li>Nailhead trim </li>
+<li>Upholstered in a soft fabric</li>
+<li>Metal side rails, center support legs, and durable wood slats provide extra stability</li>
+<li>Wooden tapered accent legs to complete the look</li>
+<li>Fits a standard double/full mattress</li>
+<li>Box spring required</li>
+<li>Mattress not included*</li>
+</ul>
+<p><span>A stylish focal point for your bedroom space. Complete with a tall arched headboard design and lined with nailhead trim detailing, this bed is a gorgeous addition to your bedroom. The solid frame is fully upholstered in soft fabric while the sturdy center support legs and metal side rails allow you to sleep comfortably for years to come.</span></p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>57"H X 61"W X 82"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>89 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>14"H X 39"W X 39"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>109 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Real Wood, Engineered Wood, Metal, Fabric, Foam</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>352 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beds</s:tag>
+    <s:tag>K&amp;A</s:tag>
+    <s:tag>Material_Fabric</s:tag>
+    <s:tag>Size_Double</s:tag>
+    <s:tag>Type_Beds</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/3932541943923</id>
+      <title>Dark Grey</title>
+      <s:price currency="CAD">749.00</s:price>
+      <s:sku>977347</s:sku>
+      <s:grams>49540</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/3932541943923</id>
+      <title>Navy Blue</title>
+      <s:price currency="CAD">749.00</s:price>
+      <s:sku>977316</s:sku>
+      <s:grams>49540</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/3932541943923</id>
+      <title>Grey</title>
+      <s:price currency="CAD">749.00</s:price>
+      <s:sku>977286</s:sku>
+      <s:grams>49540</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/3932541943923</id>
+      <title>Cream</title>
+      <s:price currency="CAD">749.00</s:price>
+      <s:sku>977255</s:sku>
+      <s:grams>49540</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/1980816392307</id>
+    <published>2019-03-07T16:23:01-08:00</published>
+    <updated>2019-03-07T16:23:01-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/queen-wide-rectangle-panel-upholstered-bed-and-frame-fabric"/>
+    <title>Bellevue Upholstered Bed, Queen</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/BRH-201-Q_wrk2_9b9beb7a-bc3f-44be-ac74-19d2533e9751.jpg?v=1621362786"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<ul>
+<li>Wide rectangle tufted fabric headboard</li>
+<li>Padded headboard and bed frame upholstered in soft fabric</li>
+<li>Durable wooden slats provide added support and eliminate the need for a box spring</li>
+<li>Two adjustable center support legs provide extra stability on uneven surfaces</li>
+<li>Fits a standard queen size mattress</li>
+<li>Black solid wood accent legs</li>
+<li>Shipped to you in 1 box</li>
+<li>Mattress not included*</li>
+</ul>
+<p><span>This beautifully upholstered fabric bed is the complete package, all delivered to you in 1 package. Complete your bedroom space with the stylish tufted padded headboard with a matching upholstered fabric bed frame. Equipped with durable slats and adjustable support legs designed with comfort and stability in mind, enjoy a restful night's sleep on this trendy extension to your bedroom or guestroom.</span></p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>41"H X 66"W X 87"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>100 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>7"H X 69"W X 39"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>119 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Engineered wood, Fabric</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>599 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beds</s:tag>
+    <s:tag>Material_Fabric</s:tag>
+    <s:tag>Size_Queen</s:tag>
+    <s:tag>Type_Beds</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1980816392307</id>
+      <title>Dark Grey</title>
+      <s:price currency="CAD">599.00</s:price>
+      <s:sku>979457</s:sku>
+      <s:grams>54091</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1980816392307</id>
+      <title>Ocean Blue</title>
+      <s:price currency="CAD">599.00</s:price>
+      <s:sku>979426</s:sku>
+      <s:grams>54091</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1980816392307</id>
+      <title>Cream</title>
+      <s:price currency="CAD">599.00</s:price>
+      <s:sku>979396</s:sku>
+      <s:grams>54091</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1980816392307</id>
+      <title>Light Grey</title>
+      <s:price currency="CAD">599.00</s:price>
+      <s:sku>976128</s:sku>
+      <s:grams>55680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/1980815507571</id>
+    <published>2019-03-07T16:22:12-08:00</published>
+    <updated>2019-03-07T16:22:12-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/double-full-wide-rectangle-panel-upholstered-bed-and-frame-fabric"/>
+    <title>Bellevue Upholstered Bed, Double/Full</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/BRH-201-D_wrk2_6692c681-386b-4370-883c-e36177fb2453.jpg?v=1621362719"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            539.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<ul>
+<li>Wide rectangle tufted fabric headboard</li>
+<li>Padded headboard and bed frame upholstered in soft fabric</li>
+<li>Durable wooden slats provide added support and eliminate the need for a box spring</li>
+<li>Two adjustable center support legs provide extra stability on uneven surfaces</li>
+<li>Fits a standard double/full-size mattress</li>
+<li>Black solid wood accent legs</li>
+<li>Shipped to you in 1 box</li>
+<li>Mattress not included*</li>
+</ul>
+<p><span>This beautifully upholstered fabric bed is the complete package, all delivered to you in 1 package. Complete your bedroom space with the stylish tufted padded headboard with a matching upholstered fabric bed frame. Equipped with durable slats and adjustable support legs designed with comfort and stability in mind, enjoy a restful night's sleep on this trendy extension to your bedroom or guestroom.</span></p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>41"H X 59"W X 82"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>98 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>7"H X 62"W X 39"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>112 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Engineered wood, Fabric</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>550 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beds</s:tag>
+    <s:tag>Material_Fabric</s:tag>
+    <s:tag>Size_Double</s:tag>
+    <s:tag>Type_Beds</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1980815507571</id>
+      <title>Dark Grey</title>
+      <s:price currency="CAD">539.00</s:price>
+      <s:sku>979464</s:sku>
+      <s:grams>50911</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1980815507571</id>
+      <title>Ocean Blue</title>
+      <s:price currency="CAD">539.00</s:price>
+      <s:sku>979433</s:sku>
+      <s:grams>50911</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1980815507571</id>
+      <title>Cream</title>
+      <s:price currency="CAD">539.00</s:price>
+      <s:sku>979402</s:sku>
+      <s:grams>50911</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1980815507571</id>
+      <title>Light Grey</title>
+      <s:price currency="CAD">539.00</s:price>
+      <s:sku>976135</s:sku>
+      <s:grams>50910</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/1980814393459</id>
+    <published>2019-03-07T16:21:24-08:00</published>
+    <updated>2019-03-07T16:21:24-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/twin-single-wide-rectangle-panel-upholstered-bed-and-frame-fabric"/>
+    <title>Bellevue Upholstered Bed, Twin/Single</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/BRH-201-S_wrk2_98ad2c02-5891-4cf5-b4d4-3bf86d6f8593.jpg?v=1621362847"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            464.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<ul>
+<li>Wide rectangle tufted fabric headboard</li>
+<li>Padded headboard and bed frame upholstered in soft fabric</li>
+<li>Durable wooden slats provide added support and eliminate the need for a box spring</li>
+<li>Two adjustable center support legs provide extra stability on uneven surfaces</li>
+<li>Fits a standard twin/single size mattress</li>
+<li>Black solid wood accent legs </li>
+<li>Shipped to you in 1 box</li>
+<li>Mattress not included*</li>
+</ul>
+<p><span>This beautifully upholstered fabric bed is the complete package, all delivered to you in one package. Complete your bedroom space with the stylish tufted padded headboard with a matching upholstered fabric bed frame. Equipped with durable slats and adjustable support legs designed with comfort and stability in mind, enjoy a restful night's sleep on this trendy extension to your bedroom or guestroom.</span></p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>41"H X 44"W X 82"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>75 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>7"H X 49"W X 41"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>86 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Engineered wood, Fabric</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>299 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beds</s:tag>
+    <s:tag>Material_Fabric</s:tag>
+    <s:tag>Size_Single</s:tag>
+    <s:tag>Type_Beds</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1980814393459</id>
+      <title>Dark Grey</title>
+      <s:price currency="CAD">464.00</s:price>
+      <s:sku>979471</s:sku>
+      <s:grams>39091</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1980814393459</id>
+      <title>Ocean Blue</title>
+      <s:price currency="CAD">464.00</s:price>
+      <s:sku>979440</s:sku>
+      <s:grams>39091</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1980814393459</id>
+      <title>Cream</title>
+      <s:price currency="CAD">464.00</s:price>
+      <s:sku>979419</s:sku>
+      <s:grams>39091</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1980814393459</id>
+      <title>Light Grey</title>
+      <s:price currency="CAD">464.00</s:price>
+      <s:sku>976142</s:sku>
+      <s:grams>41590</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/1980444180595</id>
+    <published>2019-03-07T13:22:45-08:00</published>
+    <updated>2019-03-07T13:22:45-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/queen-diamond-button-tufted-bed-and-frame"/>
+    <title>Nova Ridge Tufted Bed, Queen</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/BRH-101-Q_wrk2_76ad0cab-8b47-4562-8eec-608c1ac621ed.jpg?v=1621363041"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<ul>
+<li>Diamond button tufting </li>
+<li>Padded headboard and bed frame upholstered in a soft fabric</li>
+<li>Durable wooden slats provide added support and eliminate the need for a box spring</li>
+<li>Two adjustable support legs provide extra stability on uneven surfaces</li>
+<li>Fits a standard queen size mattress</li>
+<li>Black solid wood accent legs complete the look</li>
+<li>Shipped to you in 1 box</li>
+<li>Mattress not included*</li>
+</ul>
+<p><span>This beautifully upholstered fabric bed is the complete package, all delivered to you in 1 package. Complete your bedroom space with the stylish diamond button-tufted padded headboard with matching upholstered fabric bed frame. Equipped with durable slats and adjustable support legs designed with comfort and stability in mind, enjoy a restful night's sleep on this trendy extension to your bedroom or guestroom.</span></p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>41"H X 66"W X 87"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>192 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>7"H X 69"W X 39"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>105 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Engineered wood, Fabric</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>598 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beds</s:tag>
+    <s:tag>Material_Fabric</s:tag>
+    <s:tag>Size_Queen</s:tag>
+    <s:tag>Type_Beds</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1980444180595</id>
+      <title>Dark Grey</title>
+      <s:price currency="CAD">599.00</s:price>
+      <s:sku>979549</s:sku>
+      <s:grams>47732</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1980444180595</id>
+      <title>Ocean Blue</title>
+      <s:price currency="CAD">599.00</s:price>
+      <s:sku>979518</s:sku>
+      <s:grams>47732</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1980444180595</id>
+      <title>Cream</title>
+      <s:price currency="CAD">599.00</s:price>
+      <s:sku>979488</s:sku>
+      <s:grams>47732</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1980444180595</id>
+      <title>Light Grey</title>
+      <s:price currency="CAD">599.00</s:price>
+      <s:sku>976159</s:sku>
+      <s:grams>50000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/1980442902643</id>
+    <published>2019-03-07T13:22:09-08:00</published>
+    <updated>2019-03-07T13:22:09-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/double-full-diamond-button-tufted-bed-and-frame"/>
+    <title>Nova Ridge Tufted Bed, Double/Full</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/BRH-101-D_wrk2_ee8f2703-c309-49cb-90be-fad235ca384d.jpg?v=1621362959"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            539.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<ul>
+<li>Diamond button tufting </li>
+<li>Padded headboard and bed frame upholstered in soft fabric</li>
+<li>Durable wooden slats provide added support and eliminate the need for a box spring</li>
+<li>Two adjustable support legs provide extra stability on uneven surfaces</li>
+<li>Fits a standard double/full-size mattress</li>
+<li>Black solid wood accent legs complete the look</li>
+<li>Shipped to you in 1 box</li>
+<li>Mattress not included*</li>
+</ul>
+<p><span>This beautifully upholstered fabric bed is the complete package, all delivered to you in 1 package. Complete your bedroom space with the stylish diamond button-tufted padded headboard with matching upholstered fabric bed frame. Equipped with durable slats and adjustable support legs designed with comfort and stability in mind, enjoy a restful night's sleep on this trendy extension to your bedroom or guestroom</span></p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>41"H X 59"W X 82"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>84 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>7"H X 62"W X 39"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>100 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Engineered wood, Fabric</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>550 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beds</s:tag>
+    <s:tag>Material_Fabric</s:tag>
+    <s:tag>Size_Double</s:tag>
+    <s:tag>Type_Beds</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1980442902643</id>
+      <title>Dark Grey</title>
+      <s:price currency="CAD">539.00</s:price>
+      <s:sku>979556</s:sku>
+      <s:grams>45450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1980442902643</id>
+      <title>Ocean Blue</title>
+      <s:price currency="CAD">539.00</s:price>
+      <s:sku>979525</s:sku>
+      <s:grams>45450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1980442902643</id>
+      <title>Cream</title>
+      <s:price currency="CAD">539.00</s:price>
+      <s:sku>979495</s:sku>
+      <s:grams>45450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1980442902643</id>
+      <title>Light Grey</title>
+      <s:price currency="CAD">539.00</s:price>
+      <s:sku>976166</s:sku>
+      <s:grams>45450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/1980441886835</id>
+    <published>2019-03-07T13:21:28-08:00</published>
+    <updated>2019-03-07T13:21:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/twin-single-diamond-button-tufted-bed-and-frame"/>
+    <title>Nova Ridge Tufted Bed Twin/Single</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/BRH-101-S_wrk2_fe339e18-f402-4db5-ac52-f25e2f7e899c.jpg?v=1621362909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            464.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<ul>
+<li>Diamond button tufting </li>
+<li>Padded headboard and bed frame upholstered in soft fabric</li>
+<li>Durable wooden slats provide added support and eliminate the need for a box spring</li>
+<li>Two adjustable support legs provide extra stability on uneven surfaces</li>
+<li>Fits a standard twin/single size mattress</li>
+<li>Black solid wood accent legs complete the look</li>
+<li>Shipped to you in 1 box</li>
+<li>Mattress not included*</li>
+</ul>
+<p><span>This beautifully upholstered fabric bed is the complete package, all delivered to you in 1 package. Complete your bedroom space with the stylish diamond button-tufted padded headboard with matching upholstered fabric bed frame. Equipped with durable slats and adjustable support legs designed with comfort and stability in mind, enjoy a restful night's sleep on this trendy extension to your bedroom or guestroom.</span></p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>41"H X 44"W X 82"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>66 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>7"H X 49"W X 41"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>80 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Engineered wood, Fabric</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>299 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beds</s:tag>
+    <s:tag>Material_Fabric</s:tag>
+    <s:tag>Size_Single</s:tag>
+    <s:tag>Type_Beds</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1980441886835</id>
+      <title>Dark Grey</title>
+      <s:price currency="CAD">464.00</s:price>
+      <s:sku>979563</s:sku>
+      <s:grams>36360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1980441886835</id>
+      <title>Ocean Blue</title>
+      <s:price currency="CAD">464.00</s:price>
+      <s:sku>979532</s:sku>
+      <s:grams>36360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1980441886835</id>
+      <title>Cream</title>
+      <s:price currency="CAD">464.00</s:price>
+      <s:sku>979501</s:sku>
+      <s:grams>36360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1980441886835</id>
+      <title>Light Grey</title>
+      <s:price currency="CAD">464.00</s:price>
+      <s:sku>976173</s:sku>
+      <s:grams>36360</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/1774549827699</id>
+    <published>2018-11-14T11:26:32-08:00</published>
+    <updated>2018-11-14T11:26:32-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/fabric-vertical-channel-tufted-queen-bed-frame-18"/>
+    <title>Rosewell Fabric Tufted Bed Frame,  Queen</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/BBT-002-Q_wrk1_ka.jpg?v=1621366217"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            979.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/gjIM2lmI3SM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+<ul>
+<li>Vertical channel tufting elongates bedroom's focal point</li>
+<li>Tall padded headboard design</li>
+<li>Upholstered in a soft fabric</li>
+<li>Thick metal side rails, center support legs, and durable painted wood slats provide extra stability</li>
+<li>Wooden tapered accent legs to complete the look</li>
+<li>Fits a standard queen mattress</li>
+<li>Box spring required (not included)</li>
+<li>Mattress not included*</li>
+</ul>
+<p><span>Complete the look with this uniquely designed bed with a tufted statement headboard. Soft vertical seams become the centerpiece, while the concave arched headboard softens the look, adding elegance to any bedroom. A solid upholstered frame is beautifully upholstered in a soft fabric. Sturdy center support legs and metal side rails allow you to rest comfortably</span></p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>56"H X 70"W X 92"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>109 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>31"H X 39"W X 39"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>141 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Solid Wood, Composite Wood, Fabric, Foam</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>440 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beds</s:tag>
+    <s:tag>K&amp;A</s:tag>
+    <s:tag>Material_Fabric</s:tag>
+    <s:tag>Size_Queen</s:tag>
+    <s:tag>Type_Beds</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1774549827699</id>
+      <title>Dark Grey</title>
+      <s:price currency="CAD">979.00</s:price>
+      <s:sku>980002</s:sku>
+      <s:grams>64088</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1774549827699</id>
+      <title>Cream</title>
+      <s:price currency="CAD">979.00</s:price>
+      <s:sku>980033</s:sku>
+      <s:grams>64088</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1774549827699</id>
+      <title>Navy Blue</title>
+      <s:price currency="CAD">979.00</s:price>
+      <s:sku>979976</s:sku>
+      <s:grams>64088</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/1774538293363</id>
+    <published>2018-11-14T11:16:39-08:00</published>
+    <updated>2018-11-14T11:16:39-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/fabric-vertical-channel-tufted-king-bed-frame-18"/>
+    <title>Rosewell Fabric Tufted Bed Frame, King</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/BBT-002-K_wrk1_ka.jpg?v=1621366215"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1169.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/gjIM2lmI3SM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+<ul>
+<li>Vertical channel tufting elongates bedroom's focal point</li>
+<li>Tall padded headboard design </li>
+<li>Upholstered in a soft fabric</li>
+<li>Thick metal side rails, center support legs, and durable painted wood slats provide extra stability</li>
+<li>Wooden tapered accent legs </li>
+<li>Fits a standard king mattress</li>
+<li>Box spring required ( not included)</li>
+<li>Mattress not included*</li>
+</ul>
+<p><span>Complete the look with this uniquely designed bed with a tufted statement headboard. Soft vertical seams become the centerpiece, while the concave arched headboard softens the look, adding elegance to any bedroom. A solid upholstered frame is beautifully upholstered in a soft fabric. Sturdy center support legs and metal side rails allow you to rest comfortably.</span>e.</p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>56"H X 87"W X 92"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>120 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>36"H X 39"W X 39"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>600 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Solid Wood, Composite Wood, Fabric, Foam</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>600 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beds</s:tag>
+    <s:tag>K&amp;A</s:tag>
+    <s:tag>Material_Fabric</s:tag>
+    <s:tag>Size_King</s:tag>
+    <s:tag>Type_Beds</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1774538293363</id>
+      <title>Dark Grey</title>
+      <s:price currency="CAD">1169.00</s:price>
+      <s:sku>979990</s:sku>
+      <s:grams>71368</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1774538293363</id>
+      <title>Cream</title>
+      <s:price currency="CAD">1169.00</s:price>
+      <s:sku>980026</s:sku>
+      <s:grams>71368</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1774538293363</id>
+      <title>Navy Blue</title>
+      <s:price currency="CAD">1169.00</s:price>
+      <s:sku>979969</s:sku>
+      <s:grams>71368</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/1774534951027</id>
+    <published>2018-11-14T11:11:35-08:00</published>
+    <updated>2018-11-14T11:11:35-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/fabric-vertical-channel-tufted-double-bed-frame-18"/>
+    <title>Rosewell Fabric Tufted Bed Frame, Double</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/BBT-002-D_wrk1_ka.jpg?v=1621366213"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            959.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/gjIM2lmI3SM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+<ul>
+<li>Vertical channel tufting elongates bedroom's focal point</li>
+<li>Tall padded headboard design </li>
+<li>Upholstered in a soft fabric</li>
+<li>Thick metal side rails, center support legs, and durable painted wood slats provide extra stability</li>
+<li>Wooden tapered accent legs </li>
+<li>Fits a standard double/full mattress</li>
+<li>Box spring required (not included)</li>
+<li>Mattress not included*</li>
+</ul>
+<p><span>Complete the look with this uniquely designed bed with a statement headboard. Soft vertical seams become the centerpiece, while the arched headboard softens the look, adding elegance to any bedroom. A solid upholstered frame is beautifully upholstered in a soft fabric. Sturdy center support legs and metal side rails allow you to rest comfortably.</span></p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>56"H X 65"W X 86"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>104 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>28"H X 39"W X 39"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>134 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Solid Wood, Composite Wood, Fabric, Foam</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>352 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beds</s:tag>
+    <s:tag>K&amp;A</s:tag>
+    <s:tag>Material_Fabric</s:tag>
+    <s:tag>Size_Double</s:tag>
+    <s:tag>Type_Beds</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1774534951027</id>
+      <title>Dark Grey</title>
+      <s:price currency="CAD">959.00</s:price>
+      <s:sku>979983</s:sku>
+      <s:grams>60908</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1774534951027</id>
+      <title>Cream</title>
+      <s:price currency="CAD">959.00</s:price>
+      <s:sku>980019</s:sku>
+      <s:grams>60908</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1774534951027</id>
+      <title>Navy Blue</title>
+      <s:price currency="CAD">959.00</s:price>
+      <s:sku>979952</s:sku>
+      <s:grams>60908</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/1611934007411</id>
+    <published>2018-09-18T11:28:38-07:00</published>
+    <updated>2018-09-18T11:28:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/tufted-fabric-bed-with-wings-king"/>
+    <title>Fairfield Tufted Fabric Bed with Wings, King</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/BBT-360-K_wrk1_ka.jpg?v=1621367020"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1334.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/l6Sv49N_VBY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+<ul>
+<li>Handcrafted button tuft detailing</li>
+<li>Upholstered in fabric</li>
+<li>Metal side rails and support legs provide extra stability</li>
+<li>Fits a standard king-sized mattress</li>
+<li>Unique wingback design</li>
+<li>Box spring required (not included)</li>
+<li>Easy Assembly</li>
+<li>Mattress not included*</li>
+</ul>
+<p>C<span>reate a cozy yet stylish bedroom with this upholstered bed. A stately wingback design, diamond-patterned stitching, and a low profile footboard offer modern sophistication that can instantly transform your bedroom. Reinforced metal side rails and support legs provide a sturdy feel and a solid foundation, ensuring this bed will provide a comfortable sleep.</span></p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>60"H X 87"W X 87"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>146 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>24"H X 39"W X 39"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>178 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Engineered wood, Plywood, Rubberwood, Fabric, Foam</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>814 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beds</s:tag>
+    <s:tag>K&amp;A</s:tag>
+    <s:tag>Size_King</s:tag>
+    <s:tag>Type_Beds</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1611934007411</id>
+      <title>Grey</title>
+      <s:price currency="CAD">1334.00</s:price>
+      <s:sku>984291</s:sku>
+      <s:grams>80912</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1611934007411</id>
+      <title>Cream</title>
+      <s:price currency="CAD">1334.00</s:price>
+      <s:sku>984376</s:sku>
+      <s:grams>80912</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1611934007411</id>
+      <title>Dark Grey</title>
+      <s:price currency="CAD">1334.00</s:price>
+      <s:sku>980361</s:sku>
+      <s:grams>80912</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/1611932401779</id>
+    <published>2018-09-18T11:28:10-07:00</published>
+    <updated>2018-09-18T11:28:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/tufted-fabric-bed-with-wings-queen"/>
+    <title>Fairfield Tufted Fabric Bed with Wings, Queen</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/BBT-360-Q_wrk1_ka.jpg?v=1621367022"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1154.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/l6Sv49N_VBY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+<ul>
+<li>Handcrafted button tuft detailing</li>
+<li>Upholstered in fabric</li>
+<li>Metal side rails and support legs provide extra stability</li>
+<li>Fits a standard queen-sized mattress</li>
+<li>Unique wingback design</li>
+<li>Box spring required (not included)</li>
+<li>Easy assembly</li>
+<li>Mattress not included*</li>
+</ul>
+<p><span>Create a cozy yet stylish bedroom with this upholstered bed. A stately wingback design, diamond-patterned stitching, and a low profile footboard offer modern sophistication that can instantly transform your bedroom. Reinforced metal side rails and support legs provide a sturdy feel and a solid foundation, ensuring this bed will provide a comfortable sleep.</span></p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>60"H X 71"W X 87"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>131 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>21"H X 39"W X 39"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>159 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Engineered wood, Plywood, Rubberwood, Fabric, Foam</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>440 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beds</s:tag>
+    <s:tag>K&amp;A</s:tag>
+    <s:tag>Size_Queen</s:tag>
+    <s:tag>Type_Beds</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1611932401779</id>
+      <title>Grey</title>
+      <s:price currency="CAD">1154.00</s:price>
+      <s:sku>984307</s:sku>
+      <s:grams>72089</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1611932401779</id>
+      <title>Cream</title>
+      <s:price currency="CAD">1154.00</s:price>
+      <s:sku>984383</s:sku>
+      <s:grams>72089</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1611932401779</id>
+      <title>Dark Grey</title>
+      <s:price currency="CAD">1154.00</s:price>
+      <s:sku>980378</s:sku>
+      <s:grams>72089</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/1611930173555</id>
+    <published>2018-09-18T11:27:47-07:00</published>
+    <updated>2018-09-18T11:27:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/tufted-fabric-bed-with-wings-full-double"/>
+    <title>Fairfield Tufted Fabric Bed with Wings, Full/Double *CLEARANCE - Final Sale*</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/BBT-360-D_wrk1_ka.jpg?v=1621367018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            819.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l6Sv49N_VBY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div></div>
+<div>
+<ul>
+<li>Handcrafted button tuft detailing</li>
+<li>Upholstered in fabric</li>
+<li>Metal side rails and support legs provide extra stability</li>
+<li>Fits a standard full/double sized mattress</li>
+<li>Unique wingback design</li>
+<li>Box spring required (not included)</li>
+<li>Easy assembly</li>
+<li>Mattress not included*</li>
+</ul>
+<p><span>Create a cozy yet stylish bedroom with this upholstered bed. A stately wingback design, diamond-patterned stitching, and a low profile footboard offer modern sophistication that can instantly transform your bedroom. Reinforced metal side rails and support legs provide a sturdy feel and a solid foundation, ensuring this bed will provide a comfortable sleep.</span></p>
+<br>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>60"H X 65"W X 82"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>124 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>19"H X 39"W X 39"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>150 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Engineered wood, Plywood, Rubberwood, Fabric, Foam</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>352 lbs.</td>
+</tr>
+</tbody>
+</table>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beds</s:tag>
+    <s:tag>K&amp;A</s:tag>
+    <s:tag>Size_Double</s:tag>
+    <s:tag>Type_Beds</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1611930173555</id>
+      <title>Grey</title>
+      <s:price currency="CAD">819.00</s:price>
+      <s:sku>984314</s:sku>
+      <s:grams>67998</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1611930173555</id>
+      <title>Cream</title>
+      <s:price currency="CAD">819.00</s:price>
+      <s:sku>984390</s:sku>
+      <s:grams>67998</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1611930173555</id>
+      <title>Dark Grey</title>
+      <s:price currency="CAD">819.00</s:price>
+      <s:sku>980385</s:sku>
+      <s:grams>67998</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/1611928928371</id>
+    <published>2018-09-18T11:27:24-07:00</published>
+    <updated>2018-09-18T11:27:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/tufted-fabric-bed-with-wings-twin-single"/>
+    <title>Fairfield Tufted Fabric Bed with Wings, Twin/Single - *CLEARANCE - Final Sale*</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/BBT-360-S_wrk1_ka.jpg?v=1621367024"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            769.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/l6Sv49N_VBY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+<ul>
+<li>Handcrafted button tuft detailing</li>
+<li>Upholstered in fabric</li>
+<li>Metal side rails and support legs provide extra stability</li>
+<li>Fits a standard twin/single sized mattress</li>
+<li>Unique wingback design</li>
+<li>Box spring required (not included)</li>
+<li>Easy assembly</li>
+<li>Mattress not included*</li>
+</ul>
+<p><span>Create a cozy yet stylish bedroom with this upholstered bed. A stately wingback design, diamond-patterned stitching, and a low profile footboard offer modern sophistication that can instantly transform your bedroom. Reinforced metal side rails and support legs provide a sturdy feel and a solid foundation, ensuring this bed will provide a comfortable sleep.</span></p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>60"H X 50"W X 82"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>106 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>16"H X 39"W X 39"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>132 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Engineered wood, Plywood, Rubberwood, Fabric, Foam</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>198 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beds</s:tag>
+    <s:tag>clearance</s:tag>
+    <s:tag>K&amp;A</s:tag>
+    <s:tag>Size_Single</s:tag>
+    <s:tag>Type_Beds</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1611928928371</id>
+      <title>Grey</title>
+      <s:price currency="CAD">769.00</s:price>
+      <s:sku>984321</s:sku>
+      <s:grams>60178</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1611928928371</id>
+      <title>Cream</title>
+      <s:price currency="CAD">769.00</s:price>
+      <s:sku>984406</s:sku>
+      <s:grams>60178</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1611928928371</id>
+      <title>Dark Grey</title>
+      <s:price currency="CAD">769.00</s:price>
+      <s:sku>980392</s:sku>
+      <s:grams>60178</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/1611920015475</id>
+    <published>2018-09-18T11:25:10-07:00</published>
+    <updated>2018-09-18T11:25:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/fabric-curved-top-bed-twin-single"/>
+    <title>Fairfield Fabric Curved Top Bed, Twin/Single - *CLEARANCE - Final Sale*</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/BBT-260-S_wrk1.jpg?v=1621560642"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            789.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<ul>
+<li>Handcrafted curved top </li>
+<li>Upholstered in fabric</li>
+<li>Metal side rails and support legs provide extra stability</li>
+<li>Fits a standard twin/single sized mattress</li>
+<li>Soft silhouette creates a warm and inviting bedroom</li>
+<li>Box spring required (not included)</li>
+<li>Easy assembly</li>
+<li>Mattress not included*</li>
+</ul>
+<p><span>Unwind in your bedroom with this one-of-a-kind upholstered bed frame. The unique curved lines offer a soft silhouette that creates a warm and inviting look for your bedroom. This beautifully designed bed frame creates a focal point that anchors your bedroom.</span>el.</p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>54"H X 45"W X 82"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>94 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>15"H X 39"W X 39"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>120 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Engineered wood, Plywood, Rubberwood, Fabric, Foam</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>198 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beds</s:tag>
+    <s:tag>clearance</s:tag>
+    <s:tag>Size_Single</s:tag>
+    <s:tag>Type_Beds</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1611920015475</id>
+      <title>Grey</title>
+      <s:price currency="CAD">789.00</s:price>
+      <s:sku>984154</s:sku>
+      <s:grams>54730</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1611920015475</id>
+      <title>Cream</title>
+      <s:price currency="CAD">789.00</s:price>
+      <s:sku>984161</s:sku>
+      <s:grams>54730</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1611920015475</id>
+      <title>Beige</title>
+      <s:price currency="CAD">789.00</s:price>
+      <s:sku>984215</s:sku>
+      <s:grams>54730</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/1301286158451</id>
+    <published>2018-07-23T09:15:28-07:00</published>
+    <updated>2018-07-23T09:15:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/white-tufted-leatherette-day-bed-with-trundle-twin-single"/>
+    <title>Fairfield Tufted Leatherette Day Bed with Trundle, Single</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/BBT-110-S_wrk3.jpg?v=1621561593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1184.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C4qqcjpR9qI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<p> </p>
+<ul>
+<li>Upholstered in a soft easy to care for, leatherette material</li>
+<li>Nailhead trim accents, arched top, and gently sloped arms</li>
+<li>Tufted backrest for style and comfort</li>
+<li>Space-saving hidden trundle bed rolls out and tucks away when not in use</li>
+<li>Durable wood construction with painted black slats provide optimal support and eliminate the need for a box spring</li>
+<li>The rolling trundle bed is equipped with stoppers to keep your beds attached</li>
+<li>The top bed accommodates a standard twin/single sized mattress, trundle bed accommodates a standard twin/single mattress with a maximum 5” thickness</li>
+</ul>
+<p><span>Create a cozy and versatile living space with this daybed, wrapped in a soft, easy to clean leatherette. This daybed combines the tufted padded backrest with elegant arch accents and gently sloped arms, creating a style that can elevate the decor of any bedroom. Featuring a hidden trundle design, this daybed creates additional sleeping spots for overnight guests. Bring home this daybed to create a cozy place to lounge or sleep, making it ideal for any den or guest room.</span></p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>39"H X 81"W X 44"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>178 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>20"H X 39"W X 39"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>208 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Engineered wood, Plywood, Leatherette, Foam</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>198 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beds</s:tag>
+    <s:tag>Material_Leather</s:tag>
+    <s:tag>Size_Single</s:tag>
+    <s:tag>Type_Beds</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1301286158451</id>
+      <title>White</title>
+      <s:price currency="CAD">1184.00</s:price>
+      <s:sku>984130</s:sku>
+      <s:grams>94361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/1286279561331</id>
+    <published>2018-07-20T08:44:57-07:00</published>
+    <updated>2018-07-20T08:44:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/tufted-fabric-day-bed-with-trundle-twin-single"/>
+    <title>Fairfield Tufted Fabric Day Bed with Trundle, Twin/Single</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/BBT-160-S_wrk3.jpg?v=1621561478"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1184.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/C4qqcjpR9qI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+<ul>
+<li>Upholstered in a soft, easy to care for fabric</li>
+<li>Nailhead trim accents, arched top, and gently sloped arms</li>
+<li>Patterned button tufting on the backrest</li>
+<li>Durable wood construction with slats provide optimal support and eliminate the need for a box spring</li>
+<li>The rolling trundle bed is equipped with stoppers to keep your beds attached</li>
+<li>The top bed accommodates a standard twin/single sized mattress, trundle bed accommodates a standard twin/single mattress with a maximum 5” thickness</li>
+<li>Easy assembly</li>
+<li>Mattress not included*</li>
+</ul>
+<p><span>Create a cozy and versatile living space with this daybed, expertly wrapped in soft fabric. This daybed combines the tufted padded backrest with arch accents and gently sloped arms, creating a style that can elevate the decor of any home. Featuring a hidden trundle design, this daybed creates additional sleeping spots for overnight guests. Bring home this daybed to create a cozy place to lounge or sleep, making it ideal for any den, guest room, or bedroom.</span></p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>39"H X 81"W X 44"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>178 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>20"H X 39"W X 39"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>208 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Engineered wood, Plywood, Fabric, Foam</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>198 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beds</s:tag>
+    <s:tag>Material_Fabric</s:tag>
+    <s:tag>Size_Single</s:tag>
+    <s:tag>Type_Beds</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1286279561331</id>
+      <title>Grey</title>
+      <s:price currency="CAD">1184.00</s:price>
+      <s:sku>984123</s:sku>
+      <s:grams>94361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1286279561331</id>
+      <title>Beige</title>
+      <s:price currency="CAD">1184.00</s:price>
+      <s:sku>980422</s:sku>
+      <s:grams>94361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1286279561331</id>
+      <title>Navy Blue</title>
+      <s:price currency="CAD">1184.00</s:price>
+      <s:sku>980415</s:sku>
+      <s:grams>94361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1286279561331</id>
+      <title>Dark Grey</title>
+      <s:price currency="CAD">1184.00</s:price>
+      <s:sku>980408</s:sku>
+      <s:grams>94361</s:grams>
+    </s:variant>
+  </entry>
+</feed>

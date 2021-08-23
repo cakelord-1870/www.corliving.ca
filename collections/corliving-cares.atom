@@ -1,0 +1,1308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.corliving.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.corliving.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.corliving.ca/collections/corliving-cares.atom"/>
+  <title>CorLiving Furniture CA</title>
+  <updated>2019-08-30T09:39:01-07:00</updated>
+  <author>
+    <name>CorLiving Furniture CA</name>
+  </author>
+  <entry>
+    <id>https://www.corliving.ca/products/3953223565427</id>
+    <published>2019-08-30T09:39:01-07:00</published>
+    <updated>2019-08-30T09:39:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/monica-the-plush-cow"/>
+    <title>Monica the Plush Cow</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/AAA-007-A_env1_55e16a57-530e-4386-81a5-9b2e27392287.jpg?v=1622857046"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<ul>
+<li>Soft, squeezable, cuddly plush animal</li>
+<li>Super soft, velvety-like fur</li>
+<li>Baby blue, CorLiving pendant sewn securely in place</li>
+<li>Designed for little hands and big cuddles</li>
+<li>Appropriate for kids of all ages</li>
+</ul>
+<p>Meet Monica!</p>
+<p>Cows are very gentle animals and Monica is no different! Like many cows, Monica is incredibly social and is very excited to find a family that will love her unconditionally, just like she will love them. She loves to go on adventures and roll around in backyards with her favorite humans. Monica has had quite the journey and is ready to settle with her furever home.</p>
+<p>All net proceeds from the sale of this lovable cuddle partner will be donated to charity and their efforts in bringing joy to families across the province. Find out more <a href="https://www.corliving.ca/collections/corliving-cares">HERE</a></p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>No</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>20"H X 0"W X 0"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>0.6 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>5"H X 12"W X 10"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>1 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>charity</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/3953223565427</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>973936</s:sku>
+      <s:grams>1820</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/3953221927027</id>
+    <published>2019-08-30T09:30:22-07:00</published>
+    <updated>2019-08-30T09:30:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/luka-the-plush-dog"/>
+    <title>Luka the Plush Dog</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/AAA-004-A_env1_485470c5-1893-4646-8413-fdc20253d24a.jpg?v=1622856948"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<ul>
+<li>Soft, squeezable, cuddly plush animal</li>
+<li>Super soft, velvety-like fur</li>
+<li>Baby blue, CorLiving pendant sewn securely in place</li>
+<li>Designed for little hands and big cuddles</li>
+<li>Appropriate for kids of all ages</li>
+</ul>
+<p>Meet Luka!</p>
+<p>Luka is an extremely sweet and loving puppy that loves to bond with his humans. He is always looking for attention and loves to be pet behind the ears!  Luka has had quite the journey and is ready to settle with his furever home. This handsome boy is looking to find an active home with lots of time to play around the house and in the backyard with him. Luka is an incredibly loving dog and the way he looks at you will have you falling in love with him instantly.</p>
+<p>All net proceeds from the sale of this lovable cuddle partner will be donated to charity and their efforts in bringing joy to families across the province. Find out more <a href="https://www.corliving.ca/collections/corliving-cares">HERE</a></p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>No</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>17"H X 0"W X 0"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>0.6 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>5"H X 12"W X 10"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>1 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>charity</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/3953221927027</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>000250</s:sku>
+      <s:grams>1820</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/3953217405043</id>
+    <published>2019-08-30T09:11:28-07:00</published>
+    <updated>2019-08-30T09:11:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/charlie-the-plush-dog"/>
+    <title>Charlie the Plush Dog</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/AAA-018-A_env1.jpg?v=1622856394"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<ul>
+<li>Soft, squeezable, cuddly plush animal</li>
+<li>Super soft, velvety-like fur</li>
+<li>Baby blue, CorLiving pendant sewn securely in place</li>
+<li>Designed for little hands and big cuddles</li>
+<li>Appropriate for kids of all ages</li>
+</ul>
+<p>Meet Charlie!</p>
+<p>Charlie is the prime example of a “gentle giant”. From day 1, he has gained a large fanbase and quickly earned the reputation of being “the favorite” among staff (don’t tell the others!) His friendly, mellow, gentle, and charming personality wins over the hearts of everyone who meets him, wherever he goes.</p>
+<p>This handsome boy is very loyal, obedient, and affectionate. He loves getting pets and belly rubs – it is probably the one thing he could do forever. He has a laid-back personality and gets along well with everyone!</p>
+<p>All net proceeds from the sale of this lovable cuddle partner will be donated to charity and their efforts in bringing joy to families across the province. Find out more <a href="https://www.corliving.ca/collections/corliving-cares">HERE</a></p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>No</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>16"H X 0"W X 0"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>0.6 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>5"H X 12"W X 10"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>1 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>charity</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/3953217405043</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>000977</s:sku>
+      <s:grams>1820</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/3953217372275</id>
+    <published>2019-08-30T09:11:25-07:00</published>
+    <updated>2019-08-30T09:11:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/prince-the-plush-frog"/>
+    <title>Prince the Plush Frog</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/AAA-017-A_env1.jpg?v=1622857336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<ul>
+<li>Soft, squeezable, cuddly plush animal</li>
+<li>Super soft, velvety-like fur</li>
+<li>Baby blue, CorLiving pendant sewn securely in place</li>
+<li>Designed for little hands and big cuddles</li>
+<li>Appropriate for kids of all ages</li>
+</ul>
+<p>Meet Prince!</p>
+<p>His name says it all, Little Prince the frog is used to the finer things in life. Private pool, personalized lily pad, and all the insects he wants. Don’t let this fool you, he is goofy and fun to play with, you can jump around and play all the games with Prince, he is happiest when on the move! Prince loves a cuddle and to dream up your next adventure. He is the perfect addition to your family! </p>
+<p>All net proceeds from the sale of this lovable cuddle partner will be donated to charity and their efforts in bringing joy to families across the province. Find out more <a href="https://www.corliving.ca/collections/corliving-cares">HERE</a></p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>No</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>11"H X 0"W X 0"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>0.6 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>5"H X 12"W X 10"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>1 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>charity</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/3953217372275</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>973844</s:sku>
+      <s:grams>1820</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/3953217339507</id>
+    <published>2019-08-30T09:11:22-07:00</published>
+    <updated>2019-08-30T09:11:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/petie-the-plush-hedgehog"/>
+    <title>Petie the Plush Hedgehog</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/AAA-016-A_env1.jpg?v=1622857252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<ul>
+<li>Soft, squeezable, cuddly plush animal</li>
+<li>Super soft, velvety-like fur</li>
+<li>Baby blue, CorLiving pendant sewn securely in place</li>
+<li>Designed for little hands and big cuddles</li>
+<li>Appropriate for kids of all ages</li>
+</ul>
+<p>Meet Petie!</p>
+<p>This cuddly little ball of joy is so friendly and kind. He is the perfect companion as he doesn’t need much maintenance. He loves to play and explore all the nooks and crannies of his abode. Petie loves to cuddle up in a little ball and snooze the day away, Belly rubs are always welcome.</p>
+<p>All net proceeds from the sale of this lovable cuddle partner will be donated to charity and their efforts in bringing joy to families across the province. Find out more <a href="https://www.corliving.ca/collections/corliving-cares">HERE</a></p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>No</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>16"H X 0"W X 0"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>0.6 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>5"H X 12"W X 10"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>1 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>charity</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/3953217339507</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>973851</s:sku>
+      <s:grams>1820</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/3953217306739</id>
+    <published>2019-08-30T09:11:18-07:00</published>
+    <updated>2019-08-30T09:11:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/reggie-the-plush-dog"/>
+    <title>Reggie the Plush Dog</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/AAA-015-A_env1.jpg?v=1622857382"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<ul>
+<li>Soft, squeezable, cuddly plush animal</li>
+<li>Super soft, velvety-like fur</li>
+<li>Baby blue, CorLiving pendant sewn securely in place</li>
+<li>Designed for little hands and big cuddles</li>
+<li>Appropriate for kids of all ages</li>
+</ul>
+<p>Meet Reggie!</p>
+<p>Reggie may look tough but he is a little softie. He is the king of cuddles and the spot behind his ears is his favorite place for a little scratch. Reggie is a curious fellow and loves to find new trails to explore and sticks to try to carry. He is playful and loveable and is great with everyone but loves kids the most. Reggie is just full of love that he can't wait to give his new family!</p>
+<p>All net proceeds from the sale of this lovable cuddle partner will be donated to charity and their efforts in bringing joy to families across the province. Find out more <a href="https://www.corliving.ca/collections/corliving-cares">HERE</a></p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>No</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>18"H X 0"W X 0"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>0.6 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>5"H X 12"W X 10"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>1 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>charity</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/3953217306739</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>973868</s:sku>
+      <s:grams>1820</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/3953217241203</id>
+    <published>2019-08-30T09:11:15-07:00</published>
+    <updated>2019-08-30T09:11:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/stewart-the-plush-duck"/>
+    <title>Stewart the Plush Duck</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/AAA-014-A_env1.jpg?v=1622857457"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<ul>
+<li>Soft, squeezable, cuddly plush animal</li>
+<li>Super soft, velvety-like fur</li>
+<li>Baby blue, CorLiving pendant sewn securely in place</li>
+<li>Designed for little hands and big cuddles</li>
+<li>Appropriate for kids of all ages</li>
+</ul>
+<p>Meet Stewart!</p>
+<p>This charming little yellow fluff ball is a great addition to any home. He loves to be close to his owner and will waddle around with them all day. He LOVES baths and cuddles and is the perfect partner for a rainy walk. He is super affectionate and loves to play around. Stewart is the best friend you have always wanted!</p>
+<p>All net proceeds from the sale of this lovable cuddle partner will be donated to charity and their efforts in bringing joy to families across the province. Find out more <a href="https://www.corliving.ca/collections/corliving-cares">HERE</a></p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>No</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>18"H X 0"W X 0"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>0.6 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>5"H X 12"W X 10"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>1 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>charity</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/3953217241203</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>973875</s:sku>
+      <s:grams>1820</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/3953217175667</id>
+    <published>2019-08-30T09:11:12-07:00</published>
+    <updated>2019-08-30T09:11:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/samuel-the-plush-wolf"/>
+    <title>Samuel the Plush Wolf</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/AAA-013-A_env1.jpg?v=1622857395"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<ul>
+<li>Soft, squeezable, cuddly plush animal</li>
+<li>Super soft, velvety-like fur</li>
+<li>Baby blue, CorLiving pendant sewn securely in place</li>
+<li>Designed for little hands and big cuddles</li>
+<li>Appropriate for kids of all ages</li>
+</ul>
+<p>Meet Samuel!</p>
+<p>Samuel is the most loyal pet you will ever find. He is full of energy and likes to play all day. Samuel is a bit of a goof and a little clumsy but it only adds to his charm. He loves to sing and will wooowooo with you anytime. After a full day of playing, he loves a good cuddle on the couch and will be such a good companion to your family! He can’t wait to head to his furever home!</p>
+<p>All net proceeds from the sale of this lovable cuddle partner will be donated to charity and their efforts in bringing joy to families across the province. Find out more <a href="https://www.corliving.ca/collections/corliving-cares">HERE</a></p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>No</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>20"H X 0"W X 0"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>0.6 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>5"H X 12"W X 10"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>1 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>charity</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/3953217175667</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>000618</s:sku>
+      <s:grams>1820</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/3953217110131</id>
+    <published>2019-08-30T09:11:08-07:00</published>
+    <updated>2019-08-30T09:11:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/naomi-the-plush-camel"/>
+    <title>Naomi the Plush Camel</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/AAA-012-A_env1.jpg?v=1622857056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<ul>
+<li>Soft, squeezable, cuddly plush animal</li>
+<li>Super soft, velvety-like fur</li>
+<li>Baby blue, CorLiving pendant sewn securely in place</li>
+<li>Designed for little hands and big cuddles</li>
+<li>Appropriate for kids of all ages</li>
+</ul>
+<p>Meet Naomi!</p>
+<p>Naomi is a lovely addition to any family. She loves to be warm so blankets and sunshine are some of her favorite things. She is super friendly and affectionate and likes to go on walks. Naomi is very loyal and will stick by your side like a shadow. She loves scratches of her humps and her favorite snack any type of green vegetable to keep her healthy. If you’re an active family this girl is the perfect fit for you!</p>
+<p>All net proceeds from the sale of this lovable cuddle partner will be donated to charity and their efforts in bringing joy to families across the province. Find out more <a href="https://www.corliving.ca/collections/corliving-cares">HERE</a></p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>No</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>18"H X 0"W X 0"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>0.6 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>5"H X 12"W X 10"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>1 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>charity</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/3953217110131</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>973882</s:sku>
+      <s:grams>1820</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/3953217077363</id>
+    <published>2019-08-30T09:11:05-07:00</published>
+    <updated>2019-08-30T09:11:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/chester-the-plush-rabbit"/>
+    <title>Chester the Plush Rabbit</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/AAA-011-A_env1.jpg?v=1622856407"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<ul>
+<li>Soft, squeezable, cuddly plush animal</li>
+<li>Super soft, velvety-like fur</li>
+<li>Baby blue, CorLiving pendant sewn securely in place</li>
+<li>Designed for little hands and big cuddles</li>
+<li>Appropriate for kids of all ages</li>
+</ul>
+<p>Meet Chester!</p>
+<p>Chester has clearly been around people most of his life because he is one outgoing little bun! He loves attention and will come running up to greet you. Chester will happily hang with other pets and family members and loves to nestle himself against you while you pet him. He is looking for a loving, forever home where there is usually someone around to keep her company, feed him carrots and give him snuggles.</p>
+<p>All net proceeds from the sale of this lovable cuddle partner will be donated to charity and their efforts in bringing joy to families across the province. Find out more <a href="https://www.corliving.ca/collections/corliving-cares">HERE</a></p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>No</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>18"H X 0"W X 0"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>0.6 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>5"H X 12"W X 10"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>1 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>charity</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/3953217077363</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>973899</s:sku>
+      <s:grams>1820</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/3953217044595</id>
+    <published>2019-08-30T09:11:02-07:00</published>
+    <updated>2019-08-30T09:11:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/douglas-the-plush-lamb"/>
+    <title>Douglas the Plush Lamb</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/AAA-010-A_env1.jpg?v=1622856617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<ul>
+<li>Soft, squeezable, cuddly plush animal</li>
+<li>Super soft, velvety-like fur</li>
+<li>Baby blue, CorLiving pendant sewn securely in place</li>
+<li>Designed for little hands and big cuddles</li>
+<li>Appropriate for kids of all ages</li>
+</ul>
+<p>Meet Douglas!</p>
+<p>Mary had a little lamb and his name was Douglas! Or as we call him Dougie.  Douglas is soft and fluffy and loves to prance around. He is a curious little guy and can be slightly mischievous but it is part of his charm! The best thing about Douglas is he is a great sleeping companion and loves to count down to dreamland with his owner. Douglas can’t wait to find his furever home!</p>
+<p>All net proceeds from the sale of this lovable cuddle partner will be donated to charity and their efforts in bringing joy to families across the province. Find out more <a href="https://www.corliving.ca/collections/corliving-cares">HERE</a></p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>No</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>18"H X 0"W X 0"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>0.6 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>5"H X 12"W X 10"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>1 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>charity</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/3953217044595</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>973905</s:sku>
+      <s:grams>1820</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/3953216979059</id>
+    <published>2019-08-30T09:10:58-07:00</published>
+    <updated>2019-08-30T09:10:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/penelope-the-plush-donkey"/>
+    <title>Penelope the Plush Donkey</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/AAA-009-A_env1.jpg?v=1622857250"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<ul>
+<li>Soft, squeezable, cuddly plush animal</li>
+<li>Super soft, velvety-like fur</li>
+<li>Baby blue, CorLiving pendant sewn securely in place</li>
+<li>Designed for little hands and big cuddles</li>
+<li>Appropriate for kids of all ages</li>
+</ul>
+<p>Meet Penelope!</p>
+<p>This loveably lady is looking for a home with a slow pace. She prefers cuddles over walks and can nap the day away. She is gentle in nature and very loyal. Penelope is looking for someone to love her up unconditionally who never gets tired of hugs, kisses, and snuggles. If this sounds like you she can't wait to meet you!</p>
+<p>All net proceeds from the sale of this lovable cuddle partner will be donated to charity and their efforts in bringing joy to families across the province. Find out more <a href="https://www.corliving.ca/collections/corliving-cares">HERE</a></p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>No</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>15"H X 0"W X 0"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>0.6 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>5"H X 12"W X 10"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>1 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>charity</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/3953216979059</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>973912</s:sku>
+      <s:grams>1820</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/3953216880755</id>
+    <published>2019-08-30T09:10:55-07:00</published>
+    <updated>2019-08-30T09:10:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/mr-fitz-the-plush-cat"/>
+    <title>Mr. Fitz the Plush Cat</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/AAA-008-A_env1.jpg?v=1622857047"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<ul>
+<li>Soft, squeezable, cuddly plush animal</li>
+<li>Super soft, velvety-like fur</li>
+<li>Baby blue, CorLiving pendant sewn securely in place</li>
+<li>Designed for little hands and big cuddles</li>
+<li>Appropriate for kids of all ages</li>
+</ul>
+<p>Meet Mr.Fitz!</p>
+<p>This distinguished gentleman is just purrrfect. Mr. Fitz likes to be the center of attention and loves cuddles to prove his importance in the family. Belly rubs are his favorite and he isn’t above missing some mid-day mice hunting to nap in the sun instead. His soft orange coat is magnificent as is his stature. He is ready to capture your attention and heart.</p>
+<p>All net proceeds from the sale of this lovable cuddle partner will be donated to charity and their efforts in bringing joy to families across the province. Find out more <a href="https://www.corliving.ca/collections/corliving-cares">HERE</a></p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>No</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>20"H X 0"W X 0"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>0.6 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>5"H X 12"W X 10"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>1 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>charity</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/3953216880755</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>973929</s:sku>
+      <s:grams>1820</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/3953216847987</id>
+    <published>2019-08-30T09:10:52-07:00</published>
+    <updated>2019-08-30T09:10:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/zoey-the-plush-cat"/>
+    <title>Zoey the Plush Cat</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/AAA-006-A_env1.jpg?v=1622857725"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<ul>
+<li>Soft, squeezable, cuddly plush animal</li>
+<li>Super soft, velvety-like fur</li>
+<li>Baby blue, CorLiving pendant sewn securely in place</li>
+<li>Designed for little hands and big cuddles</li>
+<li>Appropriate for kids of all ages</li>
+</ul>
+<p>Meet Zoey!</p>
+<p>Zoey definitely has lots of personality and would love to spend her time with a family. She can be extremely mischievous so a family with young children that love to play for hours would be perfect! This young lady loves attention, lots of scratches, and having a warm place to curl up in. Zoey has had quite the journey and is ready to settle with her furever home. Her favorite activity is to lay near a window and soak up the warm sun! Zoey's unconditional love and charming personality will have you falling in love with her instantly.</p>
+<p>All net proceeds from the sale of this lovable cuddle partner will be donated to charity and their efforts in bringing joy to families across the province. Find out more <a href="https://www.corliving.ca/collections/corliving-cares">HERE</a></p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>No</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>18"H X 0"W X 0"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>0.6 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>5"H X 12"W X 10"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>1 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>charity</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/3953216847987</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>973943</s:sku>
+      <s:grams>1820</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/3953216815219</id>
+    <published>2019-08-30T09:10:48-07:00</published>
+    <updated>2019-08-30T09:10:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/penny-the-plush-dog"/>
+    <title>Penny the Plush Dog</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/AAA-005-A_env1.jpg?v=1622857251"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<ul>
+<li>Soft, squeezable, cuddly plush animal</li>
+<li>Super soft, velvety-like fur</li>
+<li>Baby blue, CorLiving pendant sewn securely in place</li>
+<li>Designed for little hands and big cuddles</li>
+<li>Appropriate for kids of all ages</li>
+</ul>
+<p>Meet Penny!</p>
+<p>This sweet girl is incredibly loving and playful with everyone she meets! She loves to be around people and is very smart; she learns new tricks very quickly! With a little bit of training, she will become a great companion dog. Penny has had quite the journey and is ready to settle with her furever home. Penny has the sweetest puppy dog eyes that will have you falling in love with her instantly.</p>
+<p>All net proceeds from the sale of this lovable cuddle partner will be donated to charity and their efforts in bringing joy to families across the province. Find out more <a href="https://www.corliving.ca/collections/corliving-cares">HERE</a></p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>No</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>17"H X 0"W X 0"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>0.6 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>5"H X 12"W X 10"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>1 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>charity</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/3953216815219</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>973950</s:sku>
+      <s:grams>1820</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/3953216749683</id>
+    <published>2019-08-30T09:10:44-07:00</published>
+    <updated>2019-08-30T09:10:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/lucy-the-plush-monkey"/>
+    <title>Lucy the Plush Monkey</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/AAA-003-A_env1.jpg?v=1622856946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<ul>
+<li>Soft, squeezable, cuddly plush animal</li>
+<li>Super soft, velvety-like fur</li>
+<li>Baby blue, CorLiving pendant sewn securely in place</li>
+<li>Designed for little hands and big cuddles</li>
+<li>Appropriate for kids of all ages</li>
+</ul>
+<p>Meet Lucy!</p>
+<p>Lucy is a sweet, loving monkey with soft, velvety fur. She loves humans and is always looking to be cuddled and packed around in your arms! Lucy has had quite the journey and is ready to settle with her furever home. This little lady is perfect for someone that loves giving and receiving lots of hugs and cuddles! Lucy is the sweetest monkey around and the way she looks at you will have you falling in love with her instantly.</p>
+<p>All net proceeds from the sale of this lovable cuddle partner will be donated to charity and their efforts in bringing joy to families across the province. Find out more <a href="https://www.corliving.ca/collections/corliving-cares">HERE</a></p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>No</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>16"H X 0"W X 0"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>0.6 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>5"H X 12"W X 10"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>1 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>charity</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/3953216749683</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>000243</s:sku>
+      <s:grams>1820</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/3953216716915</id>
+    <published>2019-08-30T09:10:40-07:00</published>
+    <updated>2019-08-30T09:10:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/winston-the-plush-bear"/>
+    <title>Winston the Plush Bear</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/AAA-002-A_env1.jpg?v=1622857706"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<ul>
+<li>Soft, squeezable, cuddly plush animal</li>
+<li>Super soft, velvety-like fur</li>
+<li>Baby blue, CorLiving pendant sewn securely in place</li>
+<li>Designed for little hands and big cuddles</li>
+<li>Appropriate for kids of all ages</li>
+</ul>
+<p>Meet Winston!</p>
+<p>This handsome guy is looking for a new home to call his own. Winston has had quite the journey and is ready to settle with his furever home. He can be very chatty at times and is hoping to find a home with a family that loves talking and playing with him. Winston has the most charming personality and the way he looks at you will have you falling in love with him instantly.</p>
+<p>All net proceeds from the sale of this lovable cuddle partner will be donated to charity and their efforts in bringing joy to families across the province. Find out more <a href="https://www.corliving.ca/collections/corliving-cares">HERE</a></p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>No</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>14"H X 0"W X 0"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>0.6 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>5"H X 12"W X 10"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>1 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>charity</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/3953216716915</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>973967</s:sku>
+      <s:grams>1820</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/3953216684147</id>
+    <published>2019-08-30T09:10:35-07:00</published>
+    <updated>2019-08-30T09:10:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/patty-the-plush-dog"/>
+    <title>Patty the Plush Dog</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/AAA-001-A_env1.jpg?v=1622857249"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<ul>
+<li>Soft, squeezable, cuddly plush animal</li>
+<li>Super soft, velvety-like fur</li>
+<li>Baby blue, CorLiving pendant sewn securely in place</li>
+<li>Designed for little hands and big cuddles</li>
+<li>Appropriate for kids of all ages</li>
+</ul>
+<p>Meet Patty!</p>
+<p>Patty has always been a very social, sweet, expressive, playful, smart, and athletic dog. He is happiest while running around freely playing with others. He also loves to cuddle all night in bed. This handsome boy is very loyal, friendly, and affectionate. He loves getting pets and belly. Patty wants all your attention, which is easy to give as he is so loveable. He can't wait to join you at his furever home!</p>
+<p>All net proceeds from the sale of this lovable cuddle partner will be donated to charity and their efforts in bringing joy to families across the province. Find out more<a href="https://www.corliving.ca/collections/corliving-cares"> HERE</a></p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>No</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>20"H X 0"W X 0"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>0.6 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>5"H X 12"W X 10"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>1 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>charity</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/3953216684147</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>973974</s:sku>
+      <s:grams>1820</s:grams>
+    </s:variant>
+  </entry>
+</feed>

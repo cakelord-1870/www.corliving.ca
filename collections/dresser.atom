@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.corliving.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.corliving.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.corliving.ca/collections/dresser.atom"/>
+  <title>CorLiving Furniture CA</title>
+  <updated>2020-12-15T12:34:17-08:00</updated>
+  <author>
+    <name>CorLiving Furniture CA</name>
+  </author>
+  <entry>
+    <id>https://www.corliving.ca/products/4374619816020</id>
+    <published>2020-12-15T12:34:17-08:00</published>
+    <updated>2020-12-15T12:34:17-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/chest-of-drawers-in-snow-white"/>
+    <title>Madison Chest of Drawers</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/BMG-310-T_wrk1.jpg?v=1574119773"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            464.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<ul>
+<li>Clean lines that work well with any decor</li>
+<li>Two deep full drawers </li>
+<li>Two deep half drawers</li>
+<li>Easy assembly</li>
+<li>Compliments Madison series furniture</li>
+</ul>
+<p>Extend your bedroom with this chest of drawers. This four-drawer dresser features wooden knobs and deep drawers. Part of the practical Madison series this dresser serves as a necessary accessory with a youthful appearance for a bedroom. It complements any of our Madison series furniture and provides a great storage solution to fit any bedroom.</p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>36"H X 36"W X 17"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>94 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>6"H X 39"W X 39"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>107 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Engineered Wood</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>0 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dressers</s:tag>
+    <s:tag>Type_Dressers</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/4374619816020</id>
+      <title>White</title>
+      <s:price currency="CAD">464.00</s:price>
+      <s:sku>994672</s:sku>
+      <s:grams>44819</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/4803049226324</id>
+    <published>2020-11-27T14:52:06-08:00</published>
+    <updated>2020-11-27T14:52:06-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/boston-5-drawer-dresser"/>
+    <title>Boston 5 Drawer Dresser</title>
+    <s:type>BSA30XT</s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/BSA-300-T_wrk1_dd79bdef-fd51-4588-83af-bdd75ff4f526.jpg?v=1624584567"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong>BSA30XT<br>
+        <strong>Price: </strong>
+            569.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<ul>
+<li>Classic finish</li>
+<li>Tall 5 drawer design for maximum storage</li>
+<li>Gunmetal cup pull handles</li>
+<li>Drawer interiors are finished, matching the exterior</li>
+<li>Drawers slide smoothly on sturdy metal drawer glides for easy access</li>
+<li>Floor protectors on feet to help prevent scratches</li>
+<li>Tether cable included for wall fastening</li>
+<li>Matching pieces available </li>
+<li>Easy assembly</li>
+</ul>
+<p>Classic lines with rustic details, the Boston five-drawer tall dresser is the perfect place to tuck away your belongings. A welcomed addition to any aesthetic, it showcases a clean-lined frame in a classic finish. Providing ample space for your belongings and wardrobe, the five drawers run smoothly on metal glides, and each one features a gunmetal cup pull handle. Add the matching nightstand or the wide six drawer dresser to complete your bedroom set.</p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>44"H X 35"W X 18"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>103 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>9"H X 48"W X 23"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>116 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Engineered Wood, Metal</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>44 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dressers</s:tag>
+    <s:tag>Type_Dressers</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/4803049226324</id>
+      <title>Black</title>
+      <s:price currency="CAD">569.00</s:price>
+      <s:sku>973738</s:sku>
+      <s:grams>52730</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/4803049226324</id>
+      <title>White</title>
+      <s:price currency="CAD">569.00</s:price>
+      <s:sku>973721</s:sku>
+      <s:grams>52730</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/4803048964180</id>
+    <published>2020-11-27T14:51:25-08:00</published>
+    <updated>2020-11-27T14:51:25-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/boston-6-drawer-dresser"/>
+    <title>Boston 6 Drawer Dresser</title>
+    <s:type>BSA30XW</s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/BSA-300-W_wrk1_dda4d858-6d84-4191-bdc7-2b857b3515a4.jpg?v=1624584570"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong>BSA30XW<br>
+        <strong>Price: </strong>
+            659.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<ul>
+<li>Classic finish</li>
+<li>Wide 6 drawer design for maximum storage</li>
+<li>Gunmetal cup pull handles</li>
+<li>Drawer interiors are finished, matching the exterior</li>
+<li>Drawers slide smoothly on sturdy metal drawer glides for easy access</li>
+<li>Floor protectors on feet to help prevent scratches</li>
+<li>Tether cable included for wall fastening</li>
+<li>Matching pieces available </li>
+<li>Easy assembly</li>
+</ul>
+<p>Classic lines with rustic details, the Boston six-drawer wide dresser is the perfect place to tuck away your belongings. A welcomed addition to any aesthetic, it showcases a clean-lined frame in a classic finish. Providing ample space for your belongings and wardrobe, the six drawers run smoothly on metal glides, and each one features a gunmetal cup pull handle. Add the matching nightstand or the tall five drawer dresser to complete your bedroom set.</p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>30"H X 55"W X 18"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>120 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>7"H X 61"W X 21"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>133 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Engineered Wood, Metal</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>44 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dressers</s:tag>
+    <s:tag>Type_Dressers</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/4803048964180</id>
+      <title>Black</title>
+      <s:price currency="CAD">659.00</s:price>
+      <s:sku>973691</s:sku>
+      <s:grams>60450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/4803048964180</id>
+      <title>White</title>
+      <s:price currency="CAD">659.00</s:price>
+      <s:sku>973684</s:sku>
+      <s:grams>60450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/4803048505428</id>
+    <published>2020-11-27T14:50:45-08:00</published>
+    <updated>2020-11-27T14:50:45-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/boston-night-stand"/>
+    <title>Boston Night Stand</title>
+    <s:type>BSA30XN</s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/BSA-300-N_wrk1.jpg?v=1624584583"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong>BSA30XN<br>
+        <strong>Price: </strong>
+            254.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<ul>
+<li>Classic finish</li>
+<li>2 Drawers for storage</li>
+<li>Gunmetal cup pull handles</li>
+<li>Drawer interiors are finished, matching the exterior</li>
+<li>Drawers slide smoothly on sturdy metal drawer glides for easy access</li>
+<li>Floor protectors on feet to help prevent scratches</li>
+<li>Tether cable included for wall fastening</li>
+<li>Matching pieces available </li>
+<li>Easy assembly</li>
+</ul>
+<p>Classic lines with rustic details, the Boston two-drawer nightstand is the perfect place to tuck away your belongings. A welcomed addition to any aesthetic, it showcases a clean-lined frame in a classic finish. Providing ample space for remote controls, books, and any other bedside essentials. The two drawers run smoothly on metal glides, and each one features a gunmetal cup pull handle. Add the matching dressers to complete your bedroom set.</p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>22"H X 22"W X 18"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>39 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>7"H X 28"W X 21"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>46 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Engineered Wood, Metal</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>44 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nightstands</s:tag>
+    <s:tag>Type_Nightstands</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/4803048505428</id>
+      <title>Black</title>
+      <s:price currency="CAD">254.00</s:price>
+      <s:sku>973714</s:sku>
+      <s:grams>20910</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/4803048505428</id>
+      <title>White</title>
+      <s:price currency="CAD">254.00</s:price>
+      <s:sku>973707</s:sku>
+      <s:grams>20910</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/4508993978452</id>
+    <published>2020-02-04T15:58:20-08:00</published>
+    <updated>2020-02-04T15:58:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/8-drawer-double-dresser-metal-handles"/>
+    <title>Newport 8 Drawer Dresser</title>
+    <s:type>NPT</s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/NPT-300-W_wrk2_e081122c-bcf2-4e9c-8f4e-4f47bd611241.jpg?v=1608344465"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong>NPT<br>
+        <strong>Price: </strong>
+            614.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/1Qlu7-PHM44" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+<ul>
+<li>Finished in a durable faux grain </li>
+<li>Wide design allowing for more organization with extra drawers</li>
+<li>Inside of drawers finished with faux wood to match outside </li>
+<li>Floor protectors on feet to help prevent scratches</li>
+<li>Drawers slide smoothly on sturdy metal drawer glides for easy access</li>
+<li>Framed with a charming chamfered trim and accented by lightly brushed metal handles</li>
+<li>Tether cable included for wall fastening</li>
+</ul>
+<p>A mid-century modern dresser offers a classic addition to any space. With clean curves around the trim, you'll have no problem fitting this piece in any bedroom or guest room. Equipped with convenient storage for optimum organization, this chest of drawers provides an exceptional choice of character for your bedroom.</p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>32"H X 47"W X 17"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>108 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>8"H X 53"W X 21"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>121 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Engineered Wood, Metal</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>0 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dressers</s:tag>
+    <s:tag>Type_Dressers</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/4508993978452</id>
+      <title>Black Oak</title>
+      <s:price currency="CAD">614.00</s:price>
+      <s:sku>976067</s:sku>
+      <s:grams>54770</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/4508993978452</id>
+      <title>White Washed Oak</title>
+      <s:price currency="CAD">614.00</s:price>
+      <s:sku>976029</s:sku>
+      <s:grams>54770</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/4508993978452</id>
+      <title>Brown Washed Oak</title>
+      <s:price currency="CAD">614.00</s:price>
+      <s:sku>975985</s:sku>
+      <s:grams>54770</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/4508984770644</id>
+    <published>2020-02-04T15:36:35-08:00</published>
+    <updated>2020-02-04T15:36:35-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/5-drawer-tall-dresser-with-metal-handles"/>
+    <title>Newport 5 Drawer Tall Dresser</title>
+    <s:type>NPT</s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/NPT-300-T_wrk2.jpg?v=1608344325"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong>NPT<br>
+        <strong>Price: </strong>
+            509.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/1Qlu7-PHM44" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+<ul>
+<li>Finished in a durable faux grain </li>
+<li>Tall design allowing for more storage in deep drawers</li>
+<li>Inside of drawers finished with faux wood to match outside</li>
+<li>Floor protectors on feet to help prevent scratches</li>
+<li>Drawers slide smoothly on sturdy metal drawer glides for easy access</li>
+<li>Framed with a charming chamfered trim and accented by lightly brushed metal handles</li>
+<li>Tether cable included for wall fastening</li>
+</ul>
+<p>A mid-century modern dresser offers a classic addition to any space. With clean curves around the trim, you'll have no problem fitting this piece in any bedroom or guest room. Equipped with convenient storage for optimum organization, this chest of drawers provides an exceptional choice of character for your bedroom.</p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>44"H X 31"W X 17"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>91 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>8"H X 50"W X 20"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>103 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Engineered Wood, Metal</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>0 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dressers</s:tag>
+    <s:tag>Type_Dressers</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/4508984770644</id>
+      <title>Black Oak</title>
+      <s:price currency="CAD">509.00</s:price>
+      <s:sku>976043</s:sku>
+      <s:grams>46820</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/4508984770644</id>
+      <title>White Washed Oak</title>
+      <s:price currency="CAD">509.00</s:price>
+      <s:sku>976005</s:sku>
+      <s:grams>46820</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/4508984770644</id>
+      <title>Grey Washed Oak</title>
+      <s:price currency="CAD">509.00</s:price>
+      <s:sku>975961</s:sku>
+      <s:grams>46820</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/4508984442964</id>
+    <published>2020-02-04T15:35:21-08:00</published>
+    <updated>2020-02-04T15:35:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/1-drawer-nightstand-with-open-bottom-shelf"/>
+    <title>Newport 1 Drawer Nightstand</title>
+    <s:type>NPT</s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/NPT-300-N_wrk2.jpg?v=1608344167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong>NPT<br>
+        <strong>Price: </strong>
+            179.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/1Qlu7-PHM44" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+<ul>
+<li>Finished in a durable faux grain </li>
+<li>Bottom shelf easily accessible for storage</li>
+<li>Inside of drawers finished with faux wood to match outside</li>
+<li>Floor protectors on feet to help prevent scratches</li>
+<li>Drawers slide smoothly on sturdy metal drawer glides for easy access</li>
+<li>Framed with a charming chamfered trim and accented by lightly brushed metal handles</li>
+</ul>
+<p>A mid-century modern nightstand offers a classic addition to any space. With clean curves around the trim, you'll have no problem fitting this piece in any bedroom or guest room. Equipped with convenient storage for optimum organization, this nightstand provides an exceptional choice of character for your bedroom.</p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>20"H X 16"W X 17"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>24 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>5"H X 24"W X 21"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>30 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Engineered Wood, Metal</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>0 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nightstands</s:tag>
+    <s:tag>Type_Nightstands</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/4508984442964</id>
+      <title>Black Oak</title>
+      <s:price currency="CAD">179.00</s:price>
+      <s:sku>976074</s:sku>
+      <s:grams>13640</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/4508984442964</id>
+      <title>White Washed Oak</title>
+      <s:price currency="CAD">179.00</s:price>
+      <s:sku>976036</s:sku>
+      <s:grams>13640</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/4508984442964</id>
+      <title>Brown Washed Oak</title>
+      <s:price currency="CAD">179.00</s:price>
+      <s:sku>975992</s:sku>
+      <s:grams>13640</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/4508983885908</id>
+    <published>2020-02-04T15:34:11-08:00</published>
+    <updated>2020-02-04T15:34:11-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/5-drawer-dresser-with-metal-handles"/>
+    <title>Newport 5 Drawer Dresser</title>
+    <s:type>NPT</s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/NPT-300-C_wrk2.jpg?v=1608344322"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong>NPT<br>
+        <strong>Price: </strong>
+            479.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/1Qlu7-PHM44" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+<ul>
+<li>Finished in a durable faux grain </li>
+<li>2 independent top drawers </li>
+<li>Inside of drawers finished with faux wood to match outside </li>
+<li>Floor protectors on feet to help prevent scratches</li>
+<li>Drawers slide smoothly on sturdy metal drawer glides for easy access</li>
+<li>Framed with a charming chamfered trim and accented by lightly brushed metal handles</li>
+</ul>
+<p>A mid-century modern dresser offers a classic addition to any space. With clean curves around the trim, you'll have no problem fitting this piece in any bedroom or guest room. Equipped with convenient storage for optimum organization, this chest of drawers provides exceptional character for your bedroom</p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>32"H X 35"W X 17"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>81 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>8"H X 40"W X 20"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>92 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Engineered Wood, Metal</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>0 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dressers</s:tag>
+    <s:tag>Type_Dressers</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/4508983885908</id>
+      <title>Black Oak</title>
+      <s:price currency="CAD">479.00</s:price>
+      <s:sku>976050</s:sku>
+      <s:grams>41590</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/4508983885908</id>
+      <title>White Washed Oak</title>
+      <s:price currency="CAD">479.00</s:price>
+      <s:sku>976012</s:sku>
+      <s:grams>41590</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/4508983885908</id>
+      <title>Brown Washed Oak</title>
+      <s:price currency="CAD">479.00</s:price>
+      <s:sku>975978</s:sku>
+      <s:grams>41590</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/1286941933683</id>
+    <published>2018-07-20T11:13:31-07:00</published>
+    <updated>2018-07-20T11:13:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/tall-boy-chest-of-drawers-in-rich-espresso"/>
+    <title>Madison Tall Boy Chest of Drawers</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/BMG-371-T_wrk1_50a0e6b4-8f82-4737-841c-b03349e0e42c.jpg?v=1565751124"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            464.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<ul>
+<li>Clean lines that work well with any decor</li>
+<li>Five deep drawers </li>
+<li>Small footprint</li>
+<li>Easy assembly</li>
+<li>Compliments Madison series furniture</li>
+</ul>
+<p>Extend your bedroom with this chest of drawers. This five-drawer dresser features wooden knobs and deep drawers. Part of the practical Madison series this dresser serves as a necessary accessory with a youthful appearance for a bedroom. It complements any of our Madison series furniture and provides a great storage solution to fit any bedroom.</p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>1Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>53"H X 21"W X 17"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>81 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>7"H X 57"W X 20"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>99 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Engineered Wood</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>0 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dressers</s:tag>
+    <s:tag>Type_Dressers</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1286941933683</id>
+      <title>Espresso</title>
+      <s:price currency="CAD">464.00</s:price>
+      <s:sku>994641</s:sku>
+      <s:grams>44910</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1286941933683</id>
+      <title>White</title>
+      <s:price currency="CAD">464.00</s:price>
+      <s:sku>994658</s:sku>
+      <s:grams>44910</s:grams>
+    </s:variant>
+  </entry>
+</feed>

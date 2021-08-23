@@ -1,0 +1,776 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.corliving.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.corliving.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.corliving.ca/collections/bookshelves.atom"/>
+  <title>CorLiving Furniture CA</title>
+  <updated>2018-07-09T10:47:33-07:00</updated>
+  <author>
+    <name>CorLiving Furniture CA</name>
+  </author>
+  <entry>
+    <id>https://www.corliving.ca/products/1200580526195</id>
+    <published>2018-07-09T10:47:33-07:00</published>
+    <updated>2018-07-09T10:47:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/quadra-71-inch-bookcase"/>
+    <title>Quadra 71&quot; Bookcase</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/LSA-809-S_wrk1_b9855263-2c4e-4760-bb41-060d0dd836c1.jpg?v=1565747478"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3><ul>
+<li>Faux woodgrain finish</li>
+<li>Four adjustable shelves</li>
+<li>Front mitred frame detail</li>
+<li>Arched bottom trim detail</li>
+<li>Only simple assembly needed</li>
+</ul><p>Classic in design with a practical form, the Quadra Collection bookcases are offered in 3 different heights making the perfect addition to your home. Getting organized is easy with these carefully designed pieces that assemble in minutes! Create a new look by configuring multiples in different heights together for a decorator look. Available in your choice of black, white or walnut faux woodgrain these versatile pieces make an easy choice for any decor setting.</p><h3>Specifications</h3> <table class="description-attributes"> <tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>71"H X 24"W X 13"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>60 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>5"H X 75"W X 17"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>73 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Particle Board</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>79 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#BTS</s:tag>
+    <s:tag>back to school</s:tag>
+    <s:tag>Bookshelves</s:tag>
+    <s:tag>Type_Bookcases</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1200580526195</id>
+      <title>Black</title>
+      <s:price currency="CAD">299.00</s:price>
+      <s:sku>989173</s:sku>
+      <s:grams>33180</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1200580526195</id>
+      <title>White</title>
+      <s:price currency="CAD">299.00</s:price>
+      <s:sku>989166</s:sku>
+      <s:grams>33180</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1200580526195</id>
+      <title>Brown</title>
+      <s:price currency="CAD">299.00</s:price>
+      <s:sku>989159</s:sku>
+      <s:grams>33180</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/1200576135283</id>
+    <published>2018-07-09T10:47:17-07:00</published>
+    <updated>2018-07-09T10:47:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/quadra-59-inch-bookcase"/>
+    <title>Quadra 59&quot; Bookcase</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/LSA-808-S_wrk1_ca088971-d8ba-4335-b770-1bee7dda5934.jpg?v=1565747453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            269.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<ul>
+<li>Faux woodgrain finish</li>
+<li>Three adjustable shelves</li>
+<li>Front mitred frame detail</li>
+<li>Arched bottom trim detail</li>
+<li>Only simple assembly needed</li>
+</ul>
+<p>Classic in design with a practical form, the Quadra Collection bookcases are offered in 3 different heights making the perfect addition to your home. Getting organized is easy with these carefully designed pieces that assemble in minutes! Create a new look by configuring multiples in different heights together for a decorator look. Available in your choice of black, white or walnut faux woodgrain these versatile pieces make an easy choice for any decor setting.</p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>59"H X 24"W X 13"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>51 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>6"H X 63"W X 17"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>61 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Particle Board</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>79 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#BTS</s:tag>
+    <s:tag>back to school</s:tag>
+    <s:tag>Bookshelves</s:tag>
+    <s:tag>Type_Bookcases</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1200576135283</id>
+      <title>Black</title>
+      <s:price currency="CAD">269.00</s:price>
+      <s:sku>989203</s:sku>
+      <s:grams>27642</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1200576135283</id>
+      <title>White</title>
+      <s:price currency="CAD">269.00</s:price>
+      <s:sku>989197</s:sku>
+      <s:grams>27642</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1200576135283</id>
+      <title>Brown</title>
+      <s:price currency="CAD">269.00</s:price>
+      <s:sku>989180</s:sku>
+      <s:grams>27642</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/1200572858483</id>
+    <published>2018-07-09T10:47:01-07:00</published>
+    <updated>2018-07-09T10:47:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/quadra-47-inch-bookcase"/>
+    <title>Quadra 47&quot; Bookcase</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/LSA-807-S_wrk1_ad960a9c-7b85-4836-91e4-a8e9603129fe.jpg?v=1565747424"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            209.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3><ul>
+<li>Faux woodgrain finish</li>
+<li>Two adjustable shelves</li>
+<li>Front mitred frame detail</li>
+<li>Arched bottom trim detail</li>
+<li>Only simple assembly needed</li>
+</ul><p>Classic in design with a practical form, the Quadra Collection bookcases are offered in 3 different heights making the perfect addition to your home. Getting organized is easy with these carefully designed pieces that assemble in minutes! Create a new look by configuring multiples in different heights together for a decorator look. Available in your choice of black, white or walnut faux woodgrain these versatile pieces make an easy choice for any decor setting.</p><h3>Specifications</h3> <table class="description-attributes"> <tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>47"H X 24"W X 13"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>41 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>5"H X 52"W X 17"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>49 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Particle Board</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>79 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#BTS</s:tag>
+    <s:tag>back to school</s:tag>
+    <s:tag>Bookshelves</s:tag>
+    <s:tag>Type_Bookcases</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1200572858483</id>
+      <title>Black</title>
+      <s:price currency="CAD">209.00</s:price>
+      <s:sku>989234</s:sku>
+      <s:grams>22181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1200572858483</id>
+      <title>White</title>
+      <s:price currency="CAD">209.00</s:price>
+      <s:sku>989227</s:sku>
+      <s:grams>22181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1200572858483</id>
+      <title>Brown</title>
+      <s:price currency="CAD">209.00</s:price>
+      <s:sku>989210</s:sku>
+      <s:grams>22181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/1199732424819</id>
+    <published>2018-07-09T09:21:33-07:00</published>
+    <updated>2018-07-09T09:21:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/72-tall-bookcase-in-frost-white"/>
+    <title>Hawthorn 72&quot; Tall Bookcase in Frost White</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/LHN-712-S_wrk1_RGB.jpg?v=1598920706"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            254.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<ul>
+<li>Fresh Frost White finish</li>
+<li>Three adjustable shelves</li>
+<li>Open shelves perfect for books &amp; DVD's or a touch of personal style</li>
+<li>Slender vertical space saving design</li>
+<li>Easy to assemble contemporary design</li>
+<li>Pair multiple bookcases together to create a customized look</li>
+</ul>
+<p>Compliment your home decor with the soft arches and beautiful open shelves of the Hawthorn Collection Bookcases. Available in 3 different heights allowing you to mix and match for a custom designer look. Paired up or on their own these open shelves are a simple contemporary way to organize your living space or add some personal style. Featured in our fresh Frost White finish.</p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>72"H X 24"W X 12"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>62 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>4"H X 76"W X 16"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>67 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Engineered Wood</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>
+<p>79 lbs.</p>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#BTS</s:tag>
+    <s:tag>Bookshelves</s:tag>
+    <s:tag>Type_Bookcases</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1199732424819</id>
+      <title>White</title>
+      <s:price currency="CAD">254.00</s:price>
+      <s:sku>409480</s:sku>
+      <s:grams>30268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/1199731802227</id>
+    <published>2018-07-09T09:21:27-07:00</published>
+    <updated>2018-07-09T09:21:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/60-tall-bookcase-in-frost-white"/>
+    <title>Hawthorne 60&quot; Tall Bookcase in White</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/LHN-711-S_wrk1_RGB.jpg?v=1598920650"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            224.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<ul>
+<li>Fresh Frost White finish</li>
+<li>Three adjustable shelves</li>
+<li>Open shelves perfect for books &amp; DVD's or a touch of personal style</li>
+<li>Slender vertical space-saving design</li>
+<li>Easy to assemble contemporary design</li>
+<li>Pair multiple bookcases together to create a customized look</li>
+</ul>
+<p>Compliment your home decor with the soft arches and beautiful open shelves of the Hawthorn Collection Bookcases. Available in 3 different heights allowing you to mix and match for a custom designer look. Paired up or on their own, these open shelves are a simple contemporary way to organize your living space or add some personal style. Featured in our fresh white finish.</p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>60"H X 24"W X 12"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>51 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>5"H X 64"W X 15"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>56 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Engineered Wood</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>79 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#BTS</s:tag>
+    <s:tag>Bookshelves</s:tag>
+    <s:tag>Type_Bookcases</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1199731802227</id>
+      <title>White</title>
+      <s:price currency="CAD">224.00</s:price>
+      <s:sku>409466</s:sku>
+      <s:grams>25270</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/1199731146867</id>
+    <published>2018-07-09T09:21:21-07:00</published>
+    <updated>2018-07-09T09:21:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/48-tall-bookcase-in-frost-white"/>
+    <title>Hawthorne 48&quot; Tall Bookcase in Frost White</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/LHN-710-S_wrk1_RGB.jpg?v=1598920488"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<ul>
+<li>Fresh Frost White finish</li>
+<li>Two adjustable shelves</li>
+<li>Open shelves perfect for books &amp; DVD's or a touch of personal style</li>
+<li>Slender vertical space saving design</li>
+<li>Easy to assemble contemporary design</li>
+<li>Pair multiple bookcases together to create a customized look</li>
+</ul>
+<p>Compliment your home decor with the soft arches and beautiful open shelves of the Hawthorn Collection Bookcases. Available in 3 different heights allowing you to mix and match for a custom designer look. Paired up or on their own these open shelves are a simple contemporary way to organize your living space or add some personal style. Featured in our fresh Frost White finish.</p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>48"H X 24"W X 12"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>40 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>5"H X 52"W X 16"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>45 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Engineered Wood</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>79 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#BTS</s:tag>
+    <s:tag>back to school</s:tag>
+    <s:tag>Bookshelves</s:tag>
+    <s:tag>Type_Bookcases</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1199731146867</id>
+      <title>White</title>
+      <s:price currency="CAD">179.00</s:price>
+      <s:sku>409442</s:sku>
+      <s:grams>20638</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/1199730557043</id>
+    <published>2018-07-09T09:21:16-07:00</published>
+    <updated>2018-07-09T09:21:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/72-tall-bookcase-in-midnight-black"/>
+    <title>Hawthorne 72&quot; Tall Bookcase in Midnight Black</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/LHN-702-S_wrk1_RGB.jpg?v=1598920739"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            254.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<ul>
+<li>Midnight Black finish</li>
+<li>Three adjustable shelves</li>
+<li>Open shelves perfect for books &amp; DVD's or a touch of personal style</li>
+<li>Slender vertical space saving design</li>
+<li>Easy to assemble contemporary design</li>
+<li>Pair multiple bookcases together to create a customized look</li>
+</ul>
+<p>Compliment your home decor with the soft curved accents and beautiful open shelves of the Hawthorn Collection Bookcases. Available in 3 different heights allowing you to mix and match for a custom designer look. Paired up or on their own these open shelves are a simple contemporary way to organize your living space or add some personal style. Featured in our signature Midnight Black finish.</p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>72"H X 24"W X 12"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>62 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>4"H X 76"W X 16"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>67 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Engineered Wood</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>79 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#BTS</s:tag>
+    <s:tag>Bookshelves</s:tag>
+    <s:tag>Type_Bookcases</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1199730557043</id>
+      <title>Black</title>
+      <s:price currency="CAD">254.00</s:price>
+      <s:sku>409428</s:sku>
+      <s:grams>30268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/1199730065523</id>
+    <published>2018-07-09T09:21:10-07:00</published>
+    <updated>2018-07-09T09:21:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/60-tall-bookcase-in-midnight-black"/>
+    <title>Hawthorne 60&quot; Tall Bookcase in Black</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/LHN-701-S_wrk1_RGB_2550x2550_2f56d196-b449-48fc-b421-b3c53bc60f4b.jpg?v=1598920651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            224.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<ul>
+<li>Rich black finish</li>
+<li>Three adjustable shelves</li>
+<li>Open shelves perfect for books &amp; DVD's or a touch of personal style</li>
+<li>Slender vertical space-saving design</li>
+<li>Easy to assemble contemporary design</li>
+<li>Pair multiple bookcases together to create a customized look</li>
+</ul>
+<p>Compliment your home decor with the soft curved accents and beautiful open shelves of the Hawthorn Collection Bookcases. Available in 3 different heights allowing you to mix and match for a custom designer look. Paired up or on their own, these open shelves are a simple contemporary way to organize your living space or add some personal style. Featured in a rich black finish.</p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>60"H X 24"W X 12"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>51 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>5"H X 64"W X 15"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>56 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Engineered Wood</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>79 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#BTS</s:tag>
+    <s:tag>Bookshelves</s:tag>
+    <s:tag>Type_Bookcases</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1199730065523</id>
+      <title>Black</title>
+      <s:price currency="CAD">224.00</s:price>
+      <s:sku>409404</s:sku>
+      <s:grams>25270</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/1199729508467</id>
+    <published>2018-07-09T09:21:04-07:00</published>
+    <updated>2018-07-09T09:21:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/48-tall-bookcase-in-midnight-black"/>
+    <title>Hawthorne 48&quot; Tall Bookcase in Midnight Black</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/LHN-700-S_wrk1_RGB.jpg?v=1598920489"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<ul>
+<li>Midnight Black finish</li>
+<li>Two adjustable shelves</li>
+<li>Open shelves perfect for books &amp; DVD's or a touch of personal style</li>
+<li>Slender vertical space saving design</li>
+<li>Easy to assemble contemporary design</li>
+<li>Pair multiple bookcases together to create a customized look</li>
+</ul>
+<p>Compliment your home decor with the soft curved accents and beautiful open shelves of the Hawthorn Collection Bookcases. Available in 3 different heights allowing you to mix and match for a custom designer look. Paired up or on their own these open shelves are a simple contemporary way to organize your living space or add some personal style. Featured in our signature Midnight Black finish.</p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>48"H X 24"W X 12"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>40 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>5"H X 52"W X 16"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>45 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Engineered Wood</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>79 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#BTS</s:tag>
+    <s:tag>back to school</s:tag>
+    <s:tag>Bookshelves</s:tag>
+    <s:tag>Type_Bookcases</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1199729508467</id>
+      <title>Black</title>
+      <s:price currency="CAD">179.00</s:price>
+      <s:sku>409381</s:sku>
+      <s:grams>20638</s:grams>
+    </s:variant>
+  </entry>
+</feed>

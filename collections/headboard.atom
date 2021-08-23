@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.corliving.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.corliving.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.corliving.ca/collections/headboard.atom"/>
+  <title>CorLiving Furniture CA</title>
+  <updated>2019-01-22T11:16:40-08:00</updated>
+  <author>
+    <name>CorLiving Furniture CA</name>
+  </author>
+  <entry>
+    <id>https://www.corliving.ca/products/1910968057971</id>
+    <published>2019-01-22T11:16:40-08:00</published>
+    <updated>2019-01-22T11:16:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/crown-silhouette-headboard-with-button-tufting-queen"/>
+    <title>Aspen Headboard with Nail head Trim, Queen</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/BBT-201-Q_wrk1_be6988bb-cbb0-4b76-83a3-8565421a9bb6.jpg?v=1565742567"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            269.00 - 314.00
+            <a href="https://www.corliving.ca/products/crown-silhouette-headboard-with-button-tufting-queen">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/Dk16DxWmxnE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+<ul>
+<li>Crown silhouette creates a focal point in your bedroom</li>
+<li>Dual nailhead trim</li>
+<li>Soft, seamless button tuft detailing</li>
+<li>Upholstered in a soft fabric</li>
+<li>Sturdy wooden legs tuck in behind mattress and attach to frame for a low-profile design</li>
+<li>Adjustable leg height to accommodate a variety of frame and mattress heights</li>
+<li>Easy assembly </li>
+<li>Fits most standard queen bed frames</li>
+</ul>
+<p><span>A classic crown silhouette with a splash of glam. Featuring a dual nailhead trim outline and soft button tuft detail, this design is the definition of trend-setting chic. Constructed of a solid wood frame, this foam-padded headboard is adjustable to suit the height of your bed and to your liking, while the low-profile supporting legs hide discreetly behind your mattress to complete the look of any bedroom.</span></p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>56"H X 62"W X 2"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>33 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>4"H X 65"W X 29"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>43 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Engineered wood, Plywood, Fabric, Foam</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>0 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Headboards</s:tag>
+    <s:tag>Type_Headboards</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1910968057971</id>
+      <title>Dark Grey</title>
+      <s:price currency="CAD">269.00</s:price>
+      <s:sku>979723</s:sku>
+      <s:grams>19550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1910968057971</id>
+      <title>Cream</title>
+      <s:price currency="CAD">314.00</s:price>
+      <s:sku>979600</s:sku>
+      <s:grams>19550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1910968057971</id>
+      <title>Navy Blue</title>
+      <s:price currency="CAD">269.00</s:price>
+      <s:sku>979686</s:sku>
+      <s:grams>19550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1910968057971</id>
+      <title>Light Grey</title>
+      <s:price currency="CAD">314.00</s:price>
+      <s:sku>976197</s:sku>
+      <s:grams>19550</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/1910965174387</id>
+    <published>2019-01-22T11:13:50-08:00</published>
+    <updated>2019-01-22T11:13:50-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/crown-silhouette-headboard-with-button-tufting-king"/>
+    <title>Aspen Headboard with Nail head Trim, King</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/BBT-201-K_wrk1_044c4bd6-5a7d-4213-878b-38c3a3f0e236.jpg?v=1565742606"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            329.00 - 389.00
+            <a href="https://www.corliving.ca/products/crown-silhouette-headboard-with-button-tufting-king">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/Dk16DxWmxnE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+<ul>
+<li>Crown silhouette creates a focal point in your bedroom</li>
+<li>Dual nailhead trim </li>
+<li>Soft, seamless button tuft detailing</li>
+<li>Upholstered in a soft fabric</li>
+<li>Sturdy wooden legs tuck in behind mattress and attach to frame for a low-profile design</li>
+<li>Adjustable leg height to accommodate a variety of frame and mattress heights</li>
+<li>Easy Assembly</li>
+<li>Fits most standard king bed frames</li>
+</ul>
+<p><span>A classic crown silhouette with a splash of glam. Featuring a dual nailhead trim outline and soft button tuft detail, this design is the definition of trend-setting chic. Constructed of a solid wood frame, this foam-padded headboard is adjustable to suit the height of your bed and to your liking, while the low-profile supporting legs hide discreetly behind your mattress to complete the look of any </span><span>bedroom.</span></p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>56"H X 79"W X 2"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>40 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>4"H X 81"W X 29"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>51 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Engineered wood, Plywood, Fabric, Foam</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>0 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Headboards</s:tag>
+    <s:tag>Type_Headboards</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1910965174387</id>
+      <title>Dark Grey</title>
+      <s:price currency="CAD">329.00</s:price>
+      <s:sku>979716</s:sku>
+      <s:grams>23179</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1910965174387</id>
+      <title>Cream</title>
+      <s:price currency="CAD">389.00</s:price>
+      <s:sku>979594</s:sku>
+      <s:grams>23179</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1910965174387</id>
+      <title>Navy Blue</title>
+      <s:price currency="CAD">329.00</s:price>
+      <s:sku>979679</s:sku>
+      <s:grams>23179</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1910965174387</id>
+      <title>Light Grey</title>
+      <s:price currency="CAD">389.00</s:price>
+      <s:sku>976180</s:sku>
+      <s:grams>23180</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/1910964093043</id>
+    <published>2019-01-22T11:12:35-08:00</published>
+    <updated>2019-01-22T11:12:35-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/crown-silhouette-headboard-with-button-tufting-double-full"/>
+    <title>Aspen Headboard with Nail head Trim, Double/Full</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/BBT-201-D_wrk1_fe5137d9-d80a-463a-999a-5df79a7920f3.jpg?v=1565742527"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            249.00 - 299.00
+            <a href="https://www.corliving.ca/products/crown-silhouette-headboard-with-button-tufting-double-full">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/Dk16DxWmxnE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+<ul>
+<li>Crown silhouette creates a focal point in your bedroom</li>
+<li>Dual nailhead trim </li>
+<li>Soft, seamless button tuft detailing</li>
+<li>Upholstered in a soft fabric</li>
+<li>Sturdy wooden legs tuck in behind mattress and attach to frame for a low-profile design</li>
+<li>Adjustable leg height to accommodate a variety of frame and mattress heights</li>
+<li>Easy Assembly</li>
+<li>Fits most standard double/full bed frames</li>
+</ul>
+<p><span>A classic crown silhouette with a splash of glam. Featuring a dual nailhead trim outline and soft button tuft detail, this design is the definition of trend-setting chic. Constructed of a solid wood frame, this foam-padded headboard is adjustable to suit the height of your bed and to your liking, while the low-profile supporting legs hide discreetly behind your mattress to complete the look of any bedroom</span></p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>56"H X 57"W X 2"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>31 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>4"H X 60"W X 29"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>39 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Engineered wood, Plywood, Fabric, Foam</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>0 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Headboards</s:tag>
+    <s:tag>Type_Headboards</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1910964093043</id>
+      <title>Dark Grey</title>
+      <s:price currency="CAD">249.00</s:price>
+      <s:sku>979730</s:sku>
+      <s:grams>17731</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1910964093043</id>
+      <title>Cream</title>
+      <s:price currency="CAD">299.00</s:price>
+      <s:sku>979617</s:sku>
+      <s:grams>17731</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1910964093043</id>
+      <title>Navy Blue</title>
+      <s:price currency="CAD">249.00</s:price>
+      <s:sku>979693</s:sku>
+      <s:grams>17731</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1910964093043</id>
+      <title>Light Grey</title>
+      <s:price currency="CAD">299.00</s:price>
+      <s:sku>976203</s:sku>
+      <s:grams>17730</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/1910963241075</id>
+    <published>2019-01-22T11:11:58-08:00</published>
+    <updated>2019-01-22T11:11:58-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/crown-silhouette-headboard-with-button-tufting-single-twin"/>
+    <title>Aspen Headboard with Nail head Trim, Single/Twin</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/BBT-201-S_wrk1.jpg?v=1619227551"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            229.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dk16DxWmxnE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<ul>
+<li>Crown silhouette creates a focal point in your bedroom</li>
+<li>Dual nailhead trim </li>
+<li>Soft, seamless button tuft detailing</li>
+<li>Upholstered in a soft fabric</li>
+<li>Sturdy wooden legs tuck in behind mattress and attach to frame for a low-profile design</li>
+<li>Adjustable leg height to accommodate a variety of frame and mattress heights</li>
+<li>Easy Assembly</li>
+<li>Fits most standard single/twin bed frames</li>
+</ul>
+<p><span>A classic crown silhouette with a splash of glam. Featuring a dual nailhead trim outline and soft button tuft detail, this design is the definition of trend-setting chic. Constructed of a solid wood frame, this foam-padded headboard is adjustable to suit the height of your bed and to your liking, while the low-profile supporting legs hide discreetly behind your mattress to complete the look of any bedroom.</span></p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>56"H X 41"W X 2"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>24 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>4"H X 44"W X 29"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>30 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Engineered wood, Plywood, Fabric, Foam</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>0 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Headboards</s:tag>
+    <s:tag>Type_Headboards</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1910963241075</id>
+      <title>Dark Grey</title>
+      <s:price currency="CAD">229.00</s:price>
+      <s:sku>979747</s:sku>
+      <s:grams>13640</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1910963241075</id>
+      <title>Cream</title>
+      <s:price currency="CAD">229.00</s:price>
+      <s:sku>979624</s:sku>
+      <s:grams>13640</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1910963241075</id>
+      <title>Navy Blue</title>
+      <s:price currency="CAD">229.00</s:price>
+      <s:sku>979709</s:sku>
+      <s:grams>13640</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1910963241075</id>
+      <title>Light Grey</title>
+      <s:price currency="CAD">229.00</s:price>
+      <s:sku>976210</s:sku>
+      <s:grams>13640</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/1909640626291</id>
+    <published>2019-01-21T10:52:51-08:00</published>
+    <updated>2019-01-21T10:52:51-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/diamond-button-tufted-fabric-arched-panel-headboard-king"/>
+    <title>Calera Tufted Fabric Headboard, King</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/BBT-113-K_wrk1_d8cb1cf6-55fc-46e5-9509-11a5f41312bb.jpg?v=1565742444"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            404.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kEsQj2sHV3o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<ul>
+<li>Soft arch silhouette </li>
+<li>Foam padded headboard panel is accented with diamond button tuft detailing</li>
+<li>Beautifully upholstered in a soft fabric</li>
+<li>Sturdy wooden legs tuck in behind mattress and attach to frame for a low-profile design</li>
+<li>Adjustable leg height to accommodate a variety of frame and mattress heights</li>
+<li>Easy Assembly</li>
+<li>Fits most standard king bed frames</li>
+</ul>
+<p><span>Complete your bedroom with this beautiful, foam padded upholstered headboard. A diamond button tufted design with soft lines and a smooth arched silhouette that will be sure to impress. Beautifully upholstered in a soft fabric, this versatile, low-profile headboard is equipped with easy-to-adjust legs to accommodate your bed and frame. </span></p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>56"H X 79"W X 2"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>35 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>4"H X 81"W X 29"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>46 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Engineered wood, Plywood, Fabric, Foam</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>0 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Headboards</s:tag>
+    <s:tag>Type_Headboards</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1909640626291</id>
+      <title>Dark Grey</title>
+      <s:price currency="CAD">404.00</s:price>
+      <s:sku>979877</s:sku>
+      <s:grams>20911</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1909640626291</id>
+      <title>Cream</title>
+      <s:price currency="CAD">404.00</s:price>
+      <s:sku>979754</s:sku>
+      <s:grams>20911</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1909640626291</id>
+      <title>Navy Blue</title>
+      <s:price currency="CAD">404.00</s:price>
+      <s:sku>979839</s:sku>
+      <s:grams>20911</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1909640626291</id>
+      <title>Light Grey</title>
+      <s:price currency="CAD">404.00</s:price>
+      <s:sku>976227</s:sku>
+      <s:grams>20910</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/1909639413875</id>
+    <published>2019-01-21T10:52:11-08:00</published>
+    <updated>2019-01-21T10:52:11-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/diamond-button-tufted-fabric-arched-panel-headboard-queen"/>
+    <title>Calera Tufted Fabric Headboard, Queen</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/BBT-113-Q_wrk1_7184050b-4a52-49a4-828a-dc141aad2449.jpg?v=1565742398"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            329.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kEsQj2sHV3o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<ul>
+<li>Soft arch silhouette </li>
+<li>Foam padded headboard panel is accented with diamond button tuft detailing</li>
+<li>Upholstered in a soft fabric</li>
+<li>Sturdy wooden legs tuck in behind mattress and attach to frame for a low-profile design</li>
+<li>Adjustable leg height to accommodate a variety of frame and mattress heights</li>
+<li>Easily Assembly</li>
+<li>Fits most standard queen bed frames</li>
+</ul>
+<p><span>Complete your bedroom with this beautiful, foam padded upholstered headboard. A diamond button tufted design with soft lines and a smooth arched silhouette that will be sure to impress. Beautifully upholstered in a soft fabric, this versatile, low-profile headboard is equipped with easy-to-adjust legs to accommodate your bed and frame</span></p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>56"H X 62"W X 2"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>27 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>4"H X 65"W X 29"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>36 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Engineered wood, Plywood, Fabric, Foam</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>0 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Headboards</s:tag>
+    <s:tag>out-of-stock-police</s:tag>
+    <s:tag>Type_Headboards</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1909639413875</id>
+      <title>Dark Grey</title>
+      <s:price currency="CAD">329.00</s:price>
+      <s:sku>979884</s:sku>
+      <s:grams>16361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1909639413875</id>
+      <title>Cream</title>
+      <s:price currency="CAD">329.00</s:price>
+      <s:sku>979761</s:sku>
+      <s:grams>16361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1909639413875</id>
+      <title>Navy Blue</title>
+      <s:price currency="CAD">329.00</s:price>
+      <s:sku>979846</s:sku>
+      <s:grams>16361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1909639413875</id>
+      <title>Light Grey</title>
+      <s:price currency="CAD">329.00</s:price>
+      <s:sku>976234</s:sku>
+      <s:grams>16360</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/1909638398067</id>
+    <published>2019-01-21T10:51:25-08:00</published>
+    <updated>2019-01-21T10:51:25-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/diamond-button-tufted-fabric-arched-panel-headboard-double-full"/>
+    <title>Calera Tufted Fabric Headboard, Double/Full</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/BBT-113-D_wrk1_c6305f3b-f6f0-44af-8b81-18dbdb4dac5a.jpg?v=1565742355"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            314.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/kEsQj2sHV3o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+<ul>
+<li>Soft arch silhouette </li>
+<li>Foam padded headboard panel is accented with diamond button tuft detailing</li>
+<li>Beautifully upholstered in a soft fabric</li>
+<li>Sturdy wooden legs tuck in behind mattress and attach to frame for a low-profile design</li>
+<li>Adjustable leg height to accommodate a variety of frame and mattress heights</li>
+<li>Easy Assembly</li>
+<li>Fits most standard double/full bed frames</li>
+</ul>
+<p><span>Complete your bedroom with this beautiful, foam padded upholstered headboard. A diamond button tufted design with soft lines and a smooth arched silhouette that will be sure to impress. Beautifully upholstered in a soft fabric, this versatile, low-profile headboard is equipped with easy-to-adjust legs to accommodate your bed and frame.</span></p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>56"H X 57"W X 2"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>25 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>4"H X 59"W X 29"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>34 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Engineered wood, Plywood, Fabric, Foam</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>0 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Headboards</s:tag>
+    <s:tag>Type_Headboards</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1909638398067</id>
+      <title>Dark Grey</title>
+      <s:price currency="CAD">314.00</s:price>
+      <s:sku>979891</s:sku>
+      <s:grams>15449</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1909638398067</id>
+      <title>Cream</title>
+      <s:price currency="CAD">314.00</s:price>
+      <s:sku>979778</s:sku>
+      <s:grams>15449</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1909638398067</id>
+      <title>Navy Blue</title>
+      <s:price currency="CAD">314.00</s:price>
+      <s:sku>979853</s:sku>
+      <s:grams>15449</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1909638398067</id>
+      <title>Light Grey</title>
+      <s:price currency="CAD">314.00</s:price>
+      <s:sku>976241</s:sku>
+      <s:grams>15450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/1909637185651</id>
+    <published>2019-01-21T10:50:45-08:00</published>
+    <updated>2019-01-21T10:50:45-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/diamond-button-tufted-fabric-arched-panel-headboard-single-twin"/>
+    <title>Calera Tufted Fabric Headboard, Single/ Twin</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/BBT-113-S_wrk1_62d9771b-47c8-4ead-9097-18defc42a59c.jpg?v=1565742311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            254.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kEsQj2sHV3o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<ul>
+<li>Soft arch silhouette </li>
+<li>Foam padded headboard panel is accented with diamond button tuft detailing</li>
+<li>Upholstered in a soft fabric</li>
+<li>Sturdy wooden legs tuck in behind mattress and attach to frame for a low-profile design</li>
+<li>Adjustable leg height to accommodate a variety of frame and mattress heights</li>
+<li>Easily Assembly</li>
+<li>Fits most standard single/twin bed frames</li>
+</ul>
+<p><span>Complete your bedroom with this beautiful, foam padded upholstered headboard. A diamond button tufted design with soft lines and a smooth arched silhouette that will be sure to impress. Beautifully upholstered in a soft fabric, this versatile, low-profile headboard is equipped with easy-to-adjust legs to accommodate your bed and frame.</span></p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>56"H X 41"W X 2"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>20 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>4"H X 44"W X 29"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>27 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Engineered wood, Plywood, Fabric, Foam</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>0 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Headboards</s:tag>
+    <s:tag>Type_Headboards</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1909637185651</id>
+      <title>Dark Grey</title>
+      <s:price currency="CAD">254.00</s:price>
+      <s:sku>979907</s:sku>
+      <s:grams>12270</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1909637185651</id>
+      <title>Cream</title>
+      <s:price currency="CAD">254.00</s:price>
+      <s:sku>979785</s:sku>
+      <s:grams>12270</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1909637185651</id>
+      <title>Navy Blue</title>
+      <s:price currency="CAD">254.00</s:price>
+      <s:sku>979860</s:sku>
+      <s:grams>12270</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1909637185651</id>
+      <title>Light Grey</title>
+      <s:price currency="CAD">254.00</s:price>
+      <s:sku>976258</s:sku>
+      <s:grams>12270</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/1287087620211</id>
+    <published>2018-07-20T12:10:44-07:00</published>
+    <updated>2018-07-20T12:10:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/3-in-1-expandable-panel-headboard-double-queen-or-king"/>
+    <title>Fairfield 3-in-1 Expandable Panel Headboard, Double, Queen, King</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/BBT-960-A_wrk1_ace377f9-4b4d-46b6-9cee-648146afca4f.jpg?v=1565751183"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            344.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iNuYO0T3CPM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<ul>
+<li>Expandable 3-in-1 panel design</li>
+<li>Upholstered in fabric</li>
+<li>Fits most standard double, queen or king-sized bed frames</li>
+<li>Nailhead trim</li>
+<li>Easy Assembly</li>
+<li>Headboard only, bed rails and frame not included</li>
+<li>Apply a fabric UV and stain protecting spray before first use</li>
+</ul>
+<p><span>Create a clean and tailored look in your bedroom with this unique padded upholstered headboard. The versatile expanding panel feature gives you the flexibility to accommodate a double, queen, or king-size bed, making it simple to create a focal point in any bedroom. This beautifully designed headboard is equipped with standard holes on the legs, allowing it to attach to most standard bed frames.</span></p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>55"H X 63"W X 3"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>36 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>7"H X 42"W X 28"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>43 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Headboards</s:tag>
+    <s:tag>Type_Headboards</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1287087620211</id>
+      <title>Grey</title>
+      <s:price currency="CAD">344.00</s:price>
+      <s:sku>984222</s:sku>
+      <s:grams>19550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1287087620211</id>
+      <title>Cream</title>
+      <s:price currency="CAD">344.00</s:price>
+      <s:sku>984246</s:sku>
+      <s:grams>19550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1287087620211</id>
+      <title>Dark Grey</title>
+      <s:price currency="CAD">344.00</s:price>
+      <s:sku>980460</s:sku>
+      <s:grams>19550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1287087620211</id>
+      <title>Navy Blue</title>
+      <s:price currency="CAD">344.00</s:price>
+      <s:sku>980453</s:sku>
+      <s:grams>19550</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.corliving.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.corliving.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.corliving.ca/collections/swings.atom"/>
+  <title>CorLiving Furniture CA</title>
+  <updated>2021-06-10T14:06:48-07:00</updated>
+  <author>
+    <name>CorLiving Furniture CA</name>
+  </author>
+  <entry>
+    <id>https://www.corliving.ca/products/6604504793172</id>
+    <published>2021-06-10T14:06:48-07:00</published>
+    <updated>2021-06-10T14:06:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/wood-frame-sling-hammock"/>
+    <title>Wood Frame Sling Hammock</title>
+    <s:type>PWS20XH</s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/PWS-200-H_wrk2.jpg?v=1623711931"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong>PWS20XH<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<ul>
+<li>Freestanding stylish curved arc solid wood stand</li>
+<li>Natural cotton canvas hammock sling</li>
+<li>Removable canvas for easy storage</li>
+<li>Easily adjustable hammock hooks allow you to decide how low or high you want to lay</li>
+<li>Ideal for deck, porch, patio or other outdoor areas</li>
+<li>Natural variation may occur in the base of this product</li>
+<li>Easy to assemble</li>
+</ul>
+<p>Eye-catching curved solid wood frame sets this Free Standing Sling Hammock apart from the crowd. The larch wood curved stand provides durability and stability and the densely woven cotton hammock is easy to remove for storage. The free-standing design means there is no need for any other support, it’s simple, just place it in your favorite backyard spot and relax!</p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>48"H X 124"W X 46"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>46 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>5"H X 62"W X 15"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>49 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Wood, Fabric, Metal</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>297 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hammocks</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>outdoor-clearance</s:tag>
+    <s:tag>Patio</s:tag>
+    <s:tag>Type_Hammocks</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/6604504793172</id>
+      <title>Beige</title>
+      <s:price currency="CAD">299.00</s:price>
+      <s:sku>971659</s:sku>
+      <s:grams>48500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/6604504793172</id>
+      <title>Navy Blue and White</title>
+      <s:price currency="CAD">299.00</s:price>
+      <s:sku>971642</s:sku>
+      <s:grams>48500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/6604504793172</id>
+      <title>Blue and Green</title>
+      <s:price currency="CAD">299.00</s:price>
+      <s:sku>971635</s:sku>
+      <s:grams>48500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/6604504793172</id>
+      <title>Orange</title>
+      <s:price currency="CAD">299.00</s:price>
+      <s:sku>971628</s:sku>
+      <s:grams>48500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/6600623521876</id>
+    <published>2021-05-28T13:10:22-07:00</published>
+    <updated>2021-05-28T13:10:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/gallant-reclining-lounger-with-cushion"/>
+    <title>Gallant Reclining Lounger with Cushion</title>
+    <s:type>PJR20XL</s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/PJR-201-L_wrk1.jpg?v=1622234242"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong>PJR20XL<br>
+        <strong>Price: </strong>
+            449.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<ul>
+<li>Powder coated aluminum/steel hybrid frame to resist rusting</li>
+<li>Backrest with adjustable positions for optimal experience</li>
+<li>Weather resistant fabric withstands exposure to the elements</li>
+<li>Plastic capped feet prevent damage to patio surface</li>
+<li>Folds for easy, compact storage</li>
+<li>Low maintenance design is engineered for high durability</li>
+<li>Easy assembly required</li>
+</ul>
+<p>Enjoy some fun in the sun on your patio or porch with this modern patio lounger! Supported by sturdy aluminum, this chaise features a clean-lines that will fit in any outdoor aesthetic. Sporting a neutral-colored cushion that is weather-resistant and filled with foam stuffing that lines the seat and backrest for added comfort, while multiple reclining positions let you choose how to relax. When the season’s over and it’s time to bring them inside, these lounge chairs fold away easily for storage.</p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>39"H X 26"W X 80"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>18 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>4"H X 67"W X 27"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>25 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Steel, Polyester</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>262 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frame_Aluminum</s:tag>
+    <s:tag>Lounge Chairs</s:tag>
+    <s:tag>Patio</s:tag>
+    <s:tag>Patio Chairs</s:tag>
+    <s:tag>PJR-201-L</s:tag>
+    <s:tag>PJR-203-L</s:tag>
+    <s:tag>Type_Patio Lounge Chairs</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/6600623521876</id>
+      <title>Taupe</title>
+      <s:price currency="CAD">449.00</s:price>
+      <s:sku>972151</s:sku>
+      <s:grams>11140</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/6600623521876</id>
+      <title>Grey</title>
+      <s:price currency="CAD">449.00</s:price>
+      <s:sku>972144</s:sku>
+      <s:grams>11140</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/6568639594580</id>
+    <published>2021-04-01T12:43:43-07:00</published>
+    <updated>2021-04-01T12:43:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/lake-front-black-patio-gliding-bench"/>
+    <title>Lake Front Patio Gliding Bench</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/PLF-230-G_wrk2.jpg?v=1624565041"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            254.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<ul>
+<li>Durable, heavy-duty powder-coated steel frame</li>
+<li>Smooth, easy glide motion</li>
+<li>Weather-resistant to, rainwater, UV rays, and spills</li>
+<li>Sturdy steel armrests for support</li>
+<li>Low maintenance, just wipe clean with a damp cloth</li>
+<li>Easy assembly</li>
+</ul>
+<p>Relax and enjoy your morning coffee in this comfortable dark green glider. The bench frame is made of powder-coated steel and is weather-resistant to last year after year. The slightly curved seat and rocking capabilities allow for ultimate comfort and armrests on each side mean you can sit back and relax in style.</p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>35"H X 46"W X 29"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>42 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>9"H X 42"W X 27"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>47 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Metal, Plastic</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>572 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>outdoor-clearance</s:tag>
+    <s:tag>Patio</s:tag>
+    <s:tag>Patio Swings</s:tag>
+    <s:tag>Type_Patio Swings</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/6568639594580</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">254.00</s:price>
+      <s:sku>972663</s:sku>
+      <s:grams>21140</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/4570799439956</id>
+    <published>2020-04-14T11:56:38-07:00</published>
+    <updated>2020-04-14T11:56:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/parksville-patio-lounge-chair"/>
+    <title>Parksville Patio Lounge Chair</title>
+    <s:type>PRK-27X-L</s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/PRK-270-L_wrk1_RGB.jpg?v=1616722571"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong>PRK-27X-L<br>
+        <strong>Price: </strong>
+            449.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<ul>
+<li>Made with galvanized powder coated steel for durability</li>
+<li>Made using Weather rated PVC for long-lasting enjoyment</li>
+<li>Cushions are easily removable for storage</li>
+<li>Handwoven around the entire chair</li>
+<li>Adjustable seating position</li>
+<li>Galvanized powder coated steel helps resist rust</li>
+</ul>
+<p>Dreaming of spending your days relaxing in your own private oasis? Look no further. Comfort, design, and style are all found in this sun lounger. Multiple adjustment angles allow you to find that perfect position. Its powder-coated steel frame helps resist rust and its all-weather, UV resistant resin wicker maintains a bright and fresh appearance year after year.</p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>No</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>35"H X 27"W X 73"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>46 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>6"H X 67"W X 26"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>47 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Powder Coated Steel, Resin Wicker Rattan, Foam, Polyester<br>
+</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>330 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lounge Chairs</s:tag>
+    <s:tag>Patio</s:tag>
+    <s:tag>Patio Chairs</s:tag>
+    <s:tag>Type_Patio Lounge Chairs</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/4570799439956</id>
+      <title>Black and Ash Grey</title>
+      <s:price currency="CAD">449.00</s:price>
+      <s:sku>975596</s:sku>
+      <s:grams>21140</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/4570799439956</id>
+      <title>Blended Grey and Oxford Blue</title>
+      <s:price currency="CAD">449.00</s:price>
+      <s:sku>975602</s:sku>
+      <s:grams>21140</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/1201327308915</id>
+    <published>2018-07-09T11:36:35-07:00</published>
+    <updated>2018-07-09T11:36:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/nantucket-patio-swing-with-arched-canopy"/>
+    <title>Nantucket Patio Swing with Arched Canopy</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/PNT-803-S_wrk2_RGB.jpg?v=1616722506"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1019.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CpCxRWdzzzk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+<ul>
+<li>Durable, weather resistant powder-coated steel frame in warm grey</li>
+<li>Cushion and shade canopy made of UV resistant Olefin fabric</li>
+<li>Comfortable 4” foam seat cushion with tufting with foam-topped backrest</li>
+<li>Patterned fade resistant vinyl mesh seat to support removable cushion</li>
+<li>Easy to assemble</li>
+</ul>
+<p>Relaxing moments in your backyard are made easy with the addition of this patio swing. The sturdy, accented steel frame is complimented by an arched shade canopy, and removable 4” tufted seat cushion with a comfortable foam topped backrest. Made from durable, UV resistant Olefin fabric, this shade-creating canopy and seat cushion are made to withstand the test of time. Gently sway your afternoon away! Only simple assembly needed upon delivery means you can complete your patio in minutes.</p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>80"H X 85"W X 62"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>111 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>11"H X 82"W X 26"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>122 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Metal, Mesh, Fabric, Foam</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>449 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gazebo</s:tag>
+    <s:tag>out-of-stock-police</s:tag>
+    <s:tag>Patio</s:tag>
+    <s:tag>Patio Swings</s:tag>
+    <s:tag>Type_Patio Swings</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1201327308915</id>
+      <title>Beige</title>
+      <s:price currency="CAD">1019.00</s:price>
+      <s:sku>997888</s:sku>
+      <s:grams>57729</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1201327308915</id>
+      <title>Navy Blue</title>
+      <s:price currency="CAD">1019.00</s:price>
+      <s:sku>981467</s:sku>
+      <s:grams>57729</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1201327308915</id>
+      <title>Grey</title>
+      <s:price currency="CAD">1019.00</s:price>
+      <s:sku>981450</s:sku>
+      <s:grams>57729</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.corliving.ca/products/1200875929715</id>
+    <published>2018-07-09T11:05:23-07:00</published>
+    <updated>2018-07-09T11:05:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.corliving.ca/products/gallant-reclining-lounger"/>
+    <title>Gallant Reclining Lounger</title>
+    <s:type></s:type>
+    <s:vendor>CorLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/5070/4499/products/PJR-329-R_wrk1_RGB.jpg?v=1617131489"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CorLiving<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            319.00 - 374.00
+            <a href="https://www.corliving.ca/products/gallant-reclining-lounger">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Description</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UjBL0dhXTC4?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+<ul>
+<li>Powder coated aluminum/steel hybrid frame to resist rusting</li>
+<li>Weather resistant vinyl mesh fabric withstands exposure to the elements</li>
+<li>Plastic capped feet prevent damage to patio surface</li>
+<li>Reclining backrest adjusts to various heights</li>
+<li>Low maintenance design is engineered for high durability</li>
+<li>No assembly required</li>
+<li>Folds for easy, compact storage</li>
+</ul>
+<p>Relax while you stretch out or sit upright on this flexible and comfortable lounging recliner from CorLiving. The sleek lines and powder coated steel frame creates an elegant look while the ultra durable fabric surface provides ideal comfort for any outdoor patio. Expertly constructed to withstand a range of climates and is UV resistant which prevents discoloration or sun damage.</p>
+<h3>Specifications</h3>
+<table class="description-attributes">
+<tbody>
+<tr>
+<td><strong>Assembly Required</strong></td>
+<td>No</td>
+</tr>
+<tr>
+<td><strong>Product Dimensions</strong></td>
+<td>39"H X 23"W X 77"D</td>
+</tr>
+<tr>
+<td><strong>Product Weight</strong></td>
+<td>27 lbs.</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Dimensions</strong></td>
+<td>6"H X 82"W X 28"D</td>
+</tr>
+<tr>
+<td><strong>Carton Shipping Weight</strong></td>
+<td>40 lbs.</td>
+</tr>
+<tr>
+<td><strong>Materials</strong></td>
+<td>Steel, PVC coated polyester mesh</td>
+</tr>
+<tr>
+<td><strong>Max Weight</strong></td>
+<td>264 lbs.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frame_Aluminum Hybrid</s:tag>
+    <s:tag>Lounge Chairs</s:tag>
+    <s:tag>outdoor-clearance</s:tag>
+    <s:tag>Patio</s:tag>
+    <s:tag>Patio Chairs</s:tag>
+    <s:tag>Type_Patio Lounge Chairs</s:tag>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1200875929715</id>
+      <title>Blue 2</title>
+      <s:price currency="CAD">374.00</s:price>
+      <s:sku>986219</s:sku>
+      <s:grams>18361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1200875929715</id>
+      <title>Black</title>
+      <s:price currency="CAD">374.00</s:price>
+      <s:sku>991367</s:sku>
+      <s:grams>18361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1200875929715</id>
+      <title>Off-White</title>
+      <s:price currency="CAD">319.00</s:price>
+      <s:sku>986189</s:sku>
+      <s:grams>18361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1200875929715</id>
+      <title>Grey</title>
+      <s:price currency="CAD">319.00</s:price>
+      <s:sku>986202</s:sku>
+      <s:grams>18361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.corliving.ca/products/1200875929715</id>
+      <title>Coral Red</title>
+      <s:price currency="CAD">319.00</s:price>
+      <s:sku>981474</s:sku>
+      <s:grams>18361</s:grams>
+    </s:variant>
+  </entry>
+</feed>
